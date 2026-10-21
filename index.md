@@ -133,13 +133,13 @@ Which can be interpreted as pessimism and dissatisfaction with one's life.
 
 And if you read another diary entry "[Random Thoughts #3 - Democracy](https://web.archive.org/web/20130727195846/http:/shisho2k.deviantart.com/)", where he reflects on the impossibility of democracy due to human ignorance
 
-![A screenshot from his page] > "In the vacuums created by our inherent ignorance, people will always be attracted by the promises of solutions and ideas that warm their hearts"
+![A screenshot from his page](изображение_2026-10-21_221831208.png)
 
 Such a view of the situation can be interpreted as cynicism, which is also inherent in the character Andrew.
 
 And if you dig really deep, then based on the entry "[Random Thoughts #2 - Arrogance](https://web.archive.org/web/20130414161005/http:/shisho2k.deviantart.com/)", where he says that being arrogant is great in the sense that you possess an unlimited supply of feigned confidence.
 
-> "Was just thinking, and certainly not for the first time, that it must be handy to be arrogant. It would be nice having that endless amount of fake confidence."
+![A screenshot from his page]> "Was just thinking, and certainly not for the first time, that it must be handy to be arrogant. It would be nice having that endless amount of fake confidence."
 
 Also in the entry "[Random Thoughts #3 - Democracy](https://web.archive.org/web/20130727195846/http:/shisho2k.deviantart.com/)" he also mentions confidence as a factor to control people
 
