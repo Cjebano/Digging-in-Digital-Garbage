@@ -78,7 +78,9 @@ As you might guess, it appeared mainly because of a scene in the second episode 
 However, it was not on the basis of this that this myth appeared. According to the most popular theory, suspicions of this fetish appeared because Nemlei either on Steam or somewhere else positively rated incestuous art with TCOAAL characters, and later, to substantiate it, the interview "[Were talking crash here](https://web.archive.org/web/20120305012228/http:/sharpteethterrors.deviantart.com/journal/Were-talking-crash-here-261016848)" was found on the [ruismandariini](https://web.archive.org/web/20120529110241/http:/ruismandariini.deviantart.com/) account, in which there was such a moment:
   
   **Nemlei**: "...Then I drew a lot of fan art of Crash Bandicoot! I paired Crash and Coco. I didn't realize they were brother and sister ;____; ..."
+ 
   **Interviewer**: "...And oh my god, I know. I always imagined them together as a couple too. They seem like the perfect couple. XD But no, they are   brother and sister, and that's definitely incest ..."
+
   **Nemlei**: "=w= I know! But I secretly never stopped shipping them <_< Don't judge me."
   
   It was this passage that became the main confirmation of the myth, although, in my opinion, the interviewer can be attributed this fetish more than Nemlei. However, let's take this myth on faith and try to refute it. I think it's worth starting with the fact that the game itself in episode 3 Decay, one of the endings, refutes this statement, but suddenly Nemlei over so many years lost interest in this fetish or she intentionally made the ending that way to whitewash herself. Therefore, we will rely in argumentation only on information from Nemlei's accounts. 
