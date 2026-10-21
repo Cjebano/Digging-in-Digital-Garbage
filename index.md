@@ -127,15 +127,13 @@ Which can clearly be interpreted as Avencherus no longer participating in the cr
 
 **Avencherus and world culture**Such an opinion may arise as a logical development of the theory about the similarity of the character Ashley and Nemlei, and at first glance it may indeed seem so, because the following entry in the diary of [Avencherus](https://web.archive.org/web/20130401091907/http:/shisho2k.deviantart.com/) "Random Thoughts #1 - Infinity and the Universe"
 
-> "What I rarely hear about is the idea that this life would get repeated. Exactly... Over and over and over again. Like that movie Groundhog Day. This thought has always bothered me whenever it decides to creep up."
-> 
-> "Frankly I wouldn't want to endure all my mistakes again, not that I would know. The disturbing part is that I'm here about to repeat bad things to myself that I will never learn from, or be able to fix."
+![A screenshot from his page](изображение_2026-10-21_221906533.png)
 
 Which can be interpreted as pessimism and dissatisfaction with one's life.
 
 And if you read another diary entry "[Random Thoughts #3 - Democracy](https://web.archive.org/web/20130727195846/http:/shisho2k.deviantart.com/)", where he reflects on the impossibility of democracy due to human ignorance
 
-> "In the vacuums created by our inherent ignorance, people will always be attracted by the promises of solutions and ideas that warm their hearts"
+![A screenshot from his page] > "In the vacuums created by our inherent ignorance, people will always be attracted by the promises of solutions and ideas that warm their hearts"
 
 Such a view of the situation can be interpreted as cynicism, which is also inherent in the character Andrew.
 
