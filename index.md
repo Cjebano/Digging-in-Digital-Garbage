@@ -1,4 +1,5 @@
 # Digging-in-Digital-Garbage
+()
 ## ATTENTION
 This post is very long. Since “Digging in Digital Garbage” is something like a study of very old developer accounts on DeviantArt. The links were initially discovered through footnotes on the wiki page dedicated to Nemlei. Initially I was driven by an attempt to learn at least something about the developers exclusively for myself. But, having followed these links on the page, I expected to see at best one or two preserved messages. However, having followed them, I discovered what seemed to me the informational equivalent of El Dorado.
 And then two questions arose before me. The first — “has anyone studied it?” — and the second — “how well-known is the information from them?”. Having searched the internet, I was able to find answers to my questions. However, they did not satisfy me. Yes, they studied it, but superficially and biasedly. And after searching the internet and talking with fans of the game (not on Reddit, but in other places), I received confirmation. They confirmed that no one had done anything like this before me.
@@ -139,7 +140,7 @@ Such a view of the situation can be interpreted as cynicism, which is also inher
 
 And if you dig really deep, then based on the entry "[Random Thoughts #2 - Arrogance](https://web.archive.org/web/20130414161005/http:/shisho2k.deviantart.com/)", where he says that being arrogant is great in the sense that you possess an unlimited supply of feigned confidence.
 
-![A screenshot from his page]> "Was just thinking, and certainly not for the first time, that it must be handy to be arrogant. It would be nice having that endless amount of fake confidence."
+![A screenshot from his page](изображение_2026-10-21_221846637.png)
 
 Also in the entry "[Random Thoughts #3 - Democracy](https://web.archive.org/web/20130727195846/http:/shisho2k.deviantart.com/)" he also mentions confidence as a factor to control people
 
