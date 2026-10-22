@@ -99,7 +99,7 @@ Therefore, it is logical to assume that Nemlei as the main writer has some opini
 
 **Nemlei and writing** She characterizes herself best in this craft in a phrase written on the [ruismandariini](https://web.archive.org/web/20120529110241/http:/ruismandariini.deviantart.com/) account under the work "[points of view](https://web.archive.org/web/20120327221038/http:/ruismandariini.deviantart.com/art/points-of-view-270982696)"
 
-> "I can explain their story to you someday. Or just make a comic out of it and show you. My explanations such anyway. Olololo"
+![Screenshot of the message]() "I can explain their story to you someday. Or just make a comic out of it and show you. My explanations such anyway. Olololo"
 
 That is, one can assume that she gives a choice to a person (Avencherus), where one of the choices is much more difficult in terms of implementation for her, says that she actually explains poorly, but draws well enough to explain everything better artistically. This opinion is also confirmed by the description under the painting "[re-crap](https://web.archive.org/web/20120403124723/http:/ruismandariini.deviantart.com/art/re-crap-257060378)"
 
