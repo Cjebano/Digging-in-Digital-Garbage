@@ -99,13 +99,11 @@ Therefore, it is logical to assume that Nemlei as the main writer has some opini
 
 **Nemlei and writing** She characterizes herself best in this craft in a phrase written on the [ruismandariini](https://web.archive.org/web/20120529110241/http:/ruismandariini.deviantart.com/) account under the work "[points of view](https://web.archive.org/web/20120327221038/http:/ruismandariini.deviantart.com/art/points-of-view-270982696)"
 
-![Screenshot of the message](изображение_2026-10-21_221348717.png) "I can explain their story to you someday. Or just make a comic out of it and show you. My explanations such anyway. Olololo"
+![Screenshot of the message](изображение_2026-10-21_221348717.png) 
 
 That is, one can assume that she gives a choice to a person (Avencherus), where one of the choices is much more difficult in terms of implementation for her, says that she actually explains poorly, but draws well enough to explain everything better artistically. This opinion is also confirmed by the description under the painting "[re-crap](https://web.archive.org/web/20120403124723/http:/ruismandariini.deviantart.com/art/re-crap-257060378)"
 
-> "man it's boring to write million descriptions like you couldn't see the picture yourself you blind fucks."
-> 
-> "Man, it's so boring to write a million descriptions, as if you can't see the picture yourself?"
+![Screenshot of the message]()> "man it's boring to write million descriptions like you couldn't see the picture yourself you blind fucks."
 
 That is, Nemlei finds it very difficult to write descriptions, and, consequently, to write any texts, however, it is worth clarifying that these messages were written by her back in 2012, 14 years have passed, which is more than the age of some fans of the game. What can we say about the prospects for self-development? 
 
