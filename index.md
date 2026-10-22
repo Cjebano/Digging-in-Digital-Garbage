@@ -138,7 +138,7 @@ Also, the success of the game becomes more understandable, since it is in TCOAAL
 
 Also in the game there is one detail that is not spoken about at all, like the rabbits, by the way. Ashley has been drawing since early childhood, like Nemlei, which can be understood from this interview "[Were talking crash here](https://web.archive.org/web/20120305012228/http:/sharpteethterrors.deviantart.com/journal/Were-talking-crash-here-261016848)", however, due to the fact that Ashley received no criticism, but only praise (remember the moment in the car from episode 3), she did not progress in any way and therefore at 20 years old she draws just as badly, unlike Nemlei. Since in 2010 on [ruismandariini](https://web.archive.org/web/20100723043735/http:/ruismandariini.deviantart.com/) in the "About me" section she said that one of her goals of being on DeviantArt is to "become a better artist", that is, to improve herself as an author. And finally, I will quote Nemlei's own words about herself, written in 2010 in the "About me" section, when she was 18 years old:
      
-![Screenshot of the message]()     "I am a Deviously Annoying, F*cking Moron"
+![Screenshot of the message](изображение_2026-10-21_221736973.png) 
 
 Agree, this description fits Ashley's image well, if not perfectly. In my opinion, these facts, if they do not say that Ashley is Nemlei's doppelganger, then at least confirm the opinion that Mandarin, when creating this character, was partly, and maybe primarily, inspired by herself in her teenage years.
 
