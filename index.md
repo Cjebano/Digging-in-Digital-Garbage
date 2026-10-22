@@ -103,7 +103,7 @@ Therefore, it is logical to assume that Nemlei as the main writer has some opini
 
 That is, one can assume that she gives a choice to a person (Avencherus), where one of the choices is much more difficult in terms of implementation for her, says that she actually explains poorly, but draws well enough to explain everything better artistically. This opinion is also confirmed by the description under the painting "[re-crap](https://web.archive.org/web/20120403124723/http:/ruismandariini.deviantart.com/art/re-crap-257060378)"
 
-![Screenshot of the message](изображение_2026-10-21_221723011.png)> "man it's boring to write million descriptions like you couldn't see the picture yourself you blind fucks."
+![Screenshot of the message](изображение_2026-10-21_221723011.png)> 
 
 That is, Nemlei finds it very difficult to write descriptions, and, consequently, to write any texts, however, it is worth clarifying that these messages were written by her back in 2012, 14 years have passed, which is more than the age of some fans of the game. What can we say about the prospects for self-development? 
 
