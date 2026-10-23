@@ -97,7 +97,7 @@ If one assumes that she entered immediately after school at 18--19 years old, th
 
 Therefore, it is logical to assume that Nemlei as the main writer has some opinion on this matter, since she seeks to express it. However, as a result of studying [ruismandariini](https://web.archive.org/web/20120529110241/http:/ruismandariini.deviantart.com/) and [kattiapina](https://web.archive.org/web/20150907030134/http:/kattiapina.deviantart.com/), I did not find any information at least indirectly speaking about her anti-corporate position. Therefore, most likely Nemlei has no anti-corporate position, since in almost 7 years of being on the internet with her openness it is impossible not to express oneself at least somehow about the world around you, both in text and in the form of a painting, unless you are not interested in it, therefore the question arises: where did she get such a position?
 
-![9](9.png)**Nemlei and writing** She characterizes herself best in this craft in a phrase written on the [ruismandariini](https://web.archive.org/web/20120529110241/http:/ruismandariini.deviantart.com/) account under the work "[points of view](https://web.archive.org/web/20120327221038/http:/ruismandariini.deviantart.com/art/points-of-view-270982696)"
+![10](10.png)**Nemlei and writing** She characterizes herself best in this craft in a phrase written on the [ruismandariini](https://web.archive.org/web/20120529110241/http:/ruismandariini.deviantart.com/) account under the work "[points of view](https://web.archive.org/web/20120327221038/http:/ruismandariini.deviantart.com/art/points-of-view-270982696)"
 
 ![Screenshot of the message](изображение_2026-10-21_221348717.png) 
 
