@@ -89,7 +89,7 @@ So, on [ruismandariini](https://web.archive.org/web/20120529110241/http:/ruisman
 
 However, among her games there is Better Half, where there is a pair of brother and sister, and the sister is younger than the brother. Doesn't remind you of anything? However... in the game there is no love line between them in any form, not even one risque joke.
 
-**How old is Nemlei?** If you go to the ruismandariini account and look at the 2012 archives in the "About me" section, "18 October" will be indicated there. The exact year of birth is not indicated. However, in the same section it is written that she is a student. The kattiapina account for 2015 also confirms that she was still studying.
+![Wow](7.png)**How old is Nemlei?** If you go to the ruismandariini account and look at the 2012 archives in the "About me" section, "18 October" will be indicated there. The exact year of birth is not indicated. However, in the same section it is written that she is a student. The kattiapina account for 2015 also confirms that she was still studying.
 
 If one assumes that she entered immediately after school at 18--19 years old, then her year of birth is 1992--1994, and in 2026 she is approximately 32--34 years old. However, one can be a student at an older age as well --- with late enrollment, a change of specialty, or a second higher education. If one allows that at the time of her studies she was 20--21 years old, the upper bound shifts: the year of birth is 1991, that is, she may be 35 years old.
 
