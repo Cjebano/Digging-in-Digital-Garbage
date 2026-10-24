@@ -200,6 +200,14 @@ Also in the game there is one detail that is not spoken about at all, like the r
      
 ![Screenshot of the message](изображение_2026-10-21_221736973.png) 
 
+
+<div class="side-by-side"><div class="text-box">Agree, this description fits Ashley's image well, if not perfectly. In my opinion, these facts, if they do not say that Ashley is Nemlei's doppelganger, then at least confirm the opinion that Mandarin, when creating this character, was partly, and maybe primarily, inspired by herself in her teenage years.
+
+However, it still remains unclear: why did the developers go into full isolation, because Nemlei was never an introvert even close, and it doesn't seem that she was, on the contrary, the same Nemlei on her two accounts was constantly written to how wonderfully she draws. Avencherus's comments on two accounts, though few, also do not contain harassment, so I think the version with harassment can be removed, since most likely 
+Nemlei, as a person who has been on the internet for many years and leading a full-fledged creative activity there, would hardly leave it after the first failures.
+
+It is also still unclear where in TCOAAL the coherent and well-thought-out storyline with "Toxisoda" and criticism of modern media came from, if Nemlei is not interested in the problems of modern society.</div><div class="img-box"><img src="Заглушка 1.png" alt="Image"><div class="img-caption">HOORAY</div></div></div>
+
 Agree, this description fits Ashley's image well, if not perfectly. In my opinion, these facts, if they do not say that Ashley is Nemlei's doppelganger, then at least confirm the opinion that Mandarin, when creating this character, was partly, and maybe primarily, inspired by herself in her teenage years.
 
 However, it still remains unclear: why did the developers go into full isolation, because Nemlei was never an introvert even close, and it doesn't seem that she was, on the contrary, the same Nemlei on her two accounts was constantly written to how wonderfully she draws. Avencherus's comments on two accounts, though few, also do not contain harassment, so I think the version with harassment can be removed, since most likely 
