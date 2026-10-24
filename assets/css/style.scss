@@ -1,25 +1,30 @@
+scss
 ---
 ---
-/* Body background (the side columns) */
-body {
+@import "{{ site.theme }}";
+
+body, html {
   background-color: #4f4f4f !important;
-  color: #e0e0e0 !important; /* Light text for readability */
+  height: 100%;
 }
 
-/* The center column */
-.wrapper, .main-content, .container {
+.wrapper, 
+.main-content, 
+.container, 
+#main_content {
   background-color: #2b2b2b !important;
-  max-width: 800px !important; /* Ensures the text is contained */
-  margin: 0 auto !important; /* Centers it */
-  padding: 40px !important; /* Space inside the box so text doesn't touch edges */
-  min-height: 100vh !important; /* Make it stretch down */
-  box-shadow: 0 0 20px rgba(0,0,0,0.5); /* Optional: adds depth */
+  max-width: 900px !important;
+  margin: 40px auto !important;
+  padding: 50px 70px !important;
+  box-sizing: border-box !important;
+  min-height: 80vh !important;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5) !important;
 }
 
-/* Fix headings and links */
-h1, h2, h3, h4, h5, h6 {
-  color: #ffffff !important;
+h1, h2, h3, h4, h5, h6, p, li, span, blockquote {
+  color: #ffffff !important; 
 }
+
 a {
-  color: #6ab0ff !important; /* A nice light blue for links */
+  color: #7ab8ff !important;
 }
