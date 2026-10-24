@@ -1,8 +1,10 @@
+
+
+# Digging-in-Digital-Garbage
 html
 <div class="my-box">
 
-# Digging-in-Digital-Garbage
-![6.png](5.png)
+ ![6.png](5.png)
 ## ATTENTION
 This post is very long. Since “Digging in Digital Garbage” is something like a study of very old developer accounts on DeviantArt. The links were initially discovered through footnotes on the wiki page dedicated to Nemlei. Initially I was driven by an attempt to learn at least something about the developers exclusively for myself. But, having followed these links on the page, I expected to see at best one or two preserved messages. However, having followed them, I discovered what seemed to me the informational equivalent of El Dorado.
 And then two questions arose before me. The first — “has anyone studied it?” — and the second — “how well-known is the information from them?”. Having searched the internet, I was able to find answers to my questions. However, they did not satisfy me. Yes, they studied it, but superficially and biasedly. And after searching the internet and talking with fans of the game (not on Reddit, but in other places), I received confirmation. They confirmed that no one had done anything like this before me.
