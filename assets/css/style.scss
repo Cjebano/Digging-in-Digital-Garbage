@@ -73,19 +73,19 @@ img:not(.side-img) {
 
 @media (max-width: 768px) {
   section, .main-content, article, #main_content {
-    padding: 20px 15px !important;
+    padding: 20px 15px !important; 
     margin: 10px !important;
   }
   
   .side-by-side {
-    flex-direction: column !important;
+    flex-direction: column !important; 
     gap: 15px !important;
   }
   
   .side-by-side .img-box {
     flex: 0 0 auto !important;
     width: 100% !important;
-    max-width: 300px !important;
-    margin: 0 auto !important;
+    max-width: 200px !important; 
+    margin: 0 auto !important; 
   }
 }
