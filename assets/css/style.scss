@@ -43,9 +43,35 @@ section a, .main-content a, article a, #main_content a {
   text-decoration: underline !important;
 }
 
-img {
+img:not(.side-img) {
   max-width: 100% !important;
   height: auto !important;
   display: block !important;
   margin: 20px auto !important;
+}
+
+.side-by-side {
+  display: flex !important;
+  align-items: flex-start !important;
+  gap: 30px !important;
+  margin: 30px 0 !important;
+}
+
+.side-img {
+  max-width: 40% !important;
+  height: auto !important;
+  border-radius: 8px !important;
+}
+
+.side-text {
+  flex: 1 !important;
+}
+
+@media (max-width: 700px) {
+  .side-by-side {
+    flex-direction: column !important;
+  }
+  .side-img {
+    max-width: 100% !important;
+  }
 }
