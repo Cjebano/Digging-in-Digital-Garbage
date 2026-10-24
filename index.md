@@ -305,6 +305,3 @@ Also at the end I will clarify that everything said is just the most probable, i
 Also, in this work far from everything was mentioned, there are still moments that could pull on a couple more small works, also in the work I did not take into account information from [Itch.io](https://itch.io/) from the comments section of Nemlei, which, by the way, is quite well and fully preserved. I did not take this information into account because I simply learned about its existence already at the time of writing this final conclusion, and by that moment I had completely rewritten the work already 3 times (sorry, I'm fucking tired), however, the initial analysis showed that the information does not radically not overturn my conclusions. However, the analysis is only an initial analysis, and who knows what other riddles and mysteries, or maybe answers to questions, are hidden by "[Itch.io](https://itch.io/)".
 
 **And that's actually all!**
-
-html
-</div>
