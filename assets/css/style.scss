@@ -8,38 +8,52 @@ html, body {
   padding: 0 !important;
 }
 
-.page-header {
+.page-header, .site-header, header {
   display: none !important;
 }
 
 .wrapper {
-  max-width: 1000px !important;
+  max-width: 900px !important;
+  margin: 40px auto !important;
+  padding: 0 !important;
+  display: block !important;
 }
 
 .main-content {
   background-color: #2b2b2b !important;
-  max-width: 900px !important;
-  margin: 40px auto !important;
-  padding: 50px 70px !important;
+  padding: 50px 60px !important;
+  border-radius: 10px !important;
   box-sizing: border-box !important;
-  min-height: 80vh !important;
-  border-radius: 8px !important;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.6) !important;
+  float: none !important;
+  width: 100% !important;
+  min-height: 80vh !important;
 }
 
 .main-content h1, 
 .main-content h2, 
 .main-content h3, 
 .main-content h4, 
+.main-content h5, 
+.main-content h6, 
 .main-content p, 
 .main-content li, 
 .main-content span, 
 .main-content blockquote, 
-.main-content strong {
+.main-content strong,
+.main-content td,
+.main-content th {
   color: #ffffff !important; 
 }
 
 .main-content a {
   color: #7ab8ff !important;
   text-decoration: underline !important;
+}
+
+.main-content img {
+  max-width: 100% !important;
+  height: auto !important;
+  display: block !important;
+  margin: 20px auto !important;
 }
