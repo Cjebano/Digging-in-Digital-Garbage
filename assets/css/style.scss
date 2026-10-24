@@ -3,15 +3,13 @@ scss
 ---
 @import "{{ site.theme }}";
 
-body, html {
+body {
   background-color: #4f4f4f !important;
-  height: 100%;
+  margin: 0;
+  padding: 0;
 }
 
-.wrapper, 
-.main-content, 
-.container, 
-#main_content {
+.my-box {
   background-color: #2b2b2b !important;
   max-width: 900px !important;
   margin: 40px auto !important;
@@ -21,10 +19,17 @@ body, html {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5) !important;
 }
 
-h1, h2, h3, h4, h5, h6, p, li, span, blockquote {
+.my-box h1, 
+.my-box h2, 
+.my-box h3, 
+.my-box h4, 
+.my-box p, 
+.my-box li, 
+.my-box span, 
+.my-box blockquote {
   color: #ffffff !important; 
 }
 
-a {
+.my-box a {
   color: #7ab8ff !important;
 }
