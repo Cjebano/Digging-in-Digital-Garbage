@@ -8,7 +8,8 @@ html, body {
   padding: 0 !important;
 }
 
-header, .site-header, .page-header, .header {
+header, .site-header, .page-header, .header,
+footer, .site-footer, .page-footer {
   display: none !important;
 }
 
@@ -28,6 +29,8 @@ section, .main-content, article, #main_content {
   box-sizing: border-box !important;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5) !important;
   min-height: 80vh !important;
+  overflow-wrap: break-word !important;
+  word-wrap: break-word !important;
 }
 
 section, .main-content, article, #main_content,
