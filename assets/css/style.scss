@@ -1,16 +1,13 @@
 scss
 ---
 ---
-@import "{{ site.theme }}";
-
-body {
+html {
   background-color: #4f4f4f !important;
-  margin: 0;
-  padding: 0;
 }
 
-.my-box {
+body {
   background-color: #2b2b2b !important;
+  color: #ffffff !important;
   max-width: 900px !important;
   margin: 40px auto !important;
   padding: 50px 70px !important;
@@ -19,17 +16,10 @@ body {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5) !important;
 }
 
-.my-box h1, 
-.my-box h2, 
-.my-box h3, 
-.my-box h4, 
-.my-box p, 
-.my-box li, 
-.my-box span, 
-.my-box blockquote {
-  color: #ffffff !important; 
+h1, h2, h3, h4, h5, h6, p, li, span, blockquote, td, th {
+  color: #ffffff !important;
 }
 
-.my-box a {
+a {
   color: #7ab8ff !important;
 }
