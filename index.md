@@ -294,7 +294,7 @@ Even despite the fact that he has no direct relation to writing the text, this d
 
 However, the problems of modern society are very interesting to Avencherus, as we found out, moreover, if you open the works of one of Avencherus's favorite writers --- Noam Chomsky, and more specifically "Profit Over People" and "Manufacturing Consent". Don't grab your heads, I will not analyze them in detail in order not to lengthen the work even more and because I don't have that much time to delve into them in detail. 
 
-![Chumba](Заглушка 3.png)
+![Заглушка3.png](Заглушка3.png)
 
 Therefore, I will go over the tops. So, in the annotation of the book "Profit Over People" it is written the following:
 
