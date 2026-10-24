@@ -41,7 +41,7 @@ Problems with the sources. First of all, it is connected with the fact that the 
 This chapter contains information about the history of the studio's appearance, and also includes a story about the first games of this studio, since a story about these games in separate developer chapters disrupted the narrative, but it is also impossible not to mention or mention in passing, because without a story about these games separately, one of the most important themes of the work will not be clear — why the developers went into total isolation.
 
 <div class="side-by-side">
-  <img src="имя_вашей_картинки.jpg" class="side-img" alt="Описание">
+  <img src="изображение_2026-10-24_201205842.png" class="side-img" alt="изображение_2026-10-24_201205842.png">
   <div class="side-text">
     <p>To begin with, it is worth discussing what lies on the surface. The structure and what Kit9studio actually is. If you try to search for information about them online or go to the studio's website indicated on the main page in Steam, a strangeness is discovered. The only game in their portfolio is The Coffin of Andy and Leyley".</p>
   </div>
