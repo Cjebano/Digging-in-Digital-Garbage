@@ -292,7 +292,11 @@ Even despite the fact that he has no direct relation to writing the text, this d
 
 > "It is also unclear where in TCOAAL the coherent and well-thought-out storyline with the company "Toxisoda" and criticism of modern media came from, if Nemlei is not interested in the problems of modern society."
 
-However, the problems of modern society are very interesting to Avencherus, as we found out, moreover, if you open the works of one of Avencherus's favorite writers --- Noam Chomsky, and more specifically "Profit Over People" and "Manufacturing Consent". Don't grab your heads, I will not analyze them in detail in order not to lengthen the work even more and because I don't have that much time to delve into them in detail. Therefore, I will go over the tops. So, in the annotation of the book "Profit Over People" it is written the following:
+However, the problems of modern society are very interesting to Avencherus, as we found out, moreover, if you open the works of one of Avencherus's favorite writers --- Noam Chomsky, and more specifically "Profit Over People" and "Manufacturing Consent". Don't grab your heads, I will not analyze them in detail in order not to lengthen the work even more and because I don't have that much time to delve into them in detail. 
+
+![Chumba](Заглушка 3.png)
+
+Therefore, I will go over the tops. So, in the annotation of the book "Profit Over People" it is written the following:
 
 > "... Chomsky criticizes the tyranny of the few, which limits public space and pursues policies that multiply private wealth, often with complete disregard for social and environmental consequences"
 
