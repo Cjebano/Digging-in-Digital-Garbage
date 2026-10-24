@@ -1,0 +1,25 @@
+---
+---
+/* Body background (the side columns) */
+body {
+  background-color: #4f4f4f !important;
+  color: #e0e0e0 !important; /* Light text for readability */
+}
+
+/* The center column */
+.wrapper, .main-content, .container {
+  background-color: #2b2b2b !important;
+  max-width: 800px !important; /* Ensures the text is contained */
+  margin: 0 auto !important; /* Centers it */
+  padding: 40px !important; /* Space inside the box so text doesn't touch edges */
+  min-height: 100vh !important; /* Make it stretch down */
+  box-shadow: 0 0 20px rgba(0,0,0,0.5); /* Optional: adds depth */
+}
+
+/* Fix headings and links */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff !important;
+}
+a {
+  color: #6ab0ff !important; /* A nice light blue for links */
+}
