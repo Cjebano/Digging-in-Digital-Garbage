@@ -53,7 +53,7 @@ The accounts of the second developer, or rather Nemlei's husband, were called:
 <div class="side-by-side"><div class="img-box"><img src="Art.3.png" alt="Image"><div class="img-caption">Profile photo (I still haven't figured out what's depicted here)</div></div><div class="text-box">[Shisho2k](https://web.archive.org/web/20110324184928/http:/shisho2k.deviantart.com/) (translated from Japanese as "Branch", but pronounced "Sisho"). It was kept from 2008 to approximately 2013, but data after 2011 was not preserved. 
 </div></div>
 
-<div class="side-by-side"><div class="img-box"><img src="Art.2.2.png" alt="Image"><div class="img-caption">Profile photo in 2014, 2015, and 2018</div></div><div class="text-box">[Avencherus](https://web.archive.org/web/20150905232045/http:/avencherus.deviantart.com/) was kept from 2014 to 2018. Unfortunately, this account was preserved worse than all: only page data for 2015 and 2016 were preserved.</div></div>
+<div class="side-by-side"><div class="img-box"><img src="Art.2.2png.png" alt="Image"><div class="img-caption">Profile photo in 2014, 2015, and 2018</div></div><div class="text-box">[Avencherus](https://web.archive.org/web/20150905232045/http:/avencherus.deviantart.com/) was kept from 2014 to 2018. Unfortunately, this account was preserved worse than all: only page data for 2015 and 2016 were preserved.</div></div>
 
 Also, from this moment I will call Nemlei's husband "**Avencherus**", occasionally returning to "**Husband**".
 
