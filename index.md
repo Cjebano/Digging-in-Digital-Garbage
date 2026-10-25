@@ -44,16 +44,15 @@ Nemlei's accounts were called:
 <div class="text-box"><a href="https://web.archive.org/web/20120529110241/http:/ruismandariini.deviantart.com/">ruismandariini</a> (translated as "Rye Mandarin"). One was kept from 2010 to 2014, but only the period from 2010 to 2012 was preserved.</div>
 </div>
 
-<div class="side-by-side"><div class="img-box"><img src="Art.3.3.png" alt="Image"><div class="img-caption">First profile photo from 2015–???, and a photo from 2018</div></div><div class="text-box"> [kattiapina](https://web.archive.org/web/20151022235741/http:/kattiapina.deviantart.com/) (translated as "Cat Monkey"). It was kept from 2014 to 2018. This account was preserved better than the first: the period from 2015 to 2016 was preserved, and one preserved year — 2018.</div></div>
+<div class="side-by-side"><div class="img-box"><img src="Art.3.3.png" alt="Image"><div class="img-caption">First profile photo from 2015-???, and a photo from 2018</div></div><div class="text-box"><a href="https://web.archive.org/web/20151022235741/http:/kattiapina.deviantart.com/">kattiapina</a> (translated as "Cat Monkey"). It was kept from 2014 to 2018. This account was preserved better than the first: the period from 2015 to 2016 was preserved, and one preserved year — 2018.</div></div>
 
 For convenience, I will divide the [kattiapina](https://web.archive.org/web/20151022235741/http:/kattiapina.deviantart.com/) account into two periods. I will call the first period "Yolala", after the developer's first nickname; this period covers 2014 and 2015, and the second, "**Kattiapina**", covers only 2018. Also, in the future, I will sometimes replace the word "**Nemlei**" with "**Kattiapina**" for variety.
 
 The accounts of the second developer, or rather Nemlei's husband, were called:
 
-<div class="side-by-side"><div class="img-box"><img src="Art.3.png" alt="Image"><div class="img-caption">Profile photo (I still haven't figured out what's depicted here)</div></div><div class="text-box">[Shisho2k](https://web.archive.org/web/20110324184928/http:/shisho2k.deviantart.com/) (translated from Japanese as "Branch", but pronounced "Sisho"). It was kept from 2008 to approximately 2013, but data after 2011 was not preserved. 
-</div></div>
+<div class="side-by-side"><div class="img-box"><img src="Art.3.png" style="width: 100%; max-width: 250px; height: auto; border-radius: 8px;" alt="Image"><div class="img-caption">Profile photo (I still haven't figured out who's depicted here)</div></div><div class="text-box"><a href="https://web.archive.org/web/20110324184928/http:/shisho2k.deviantart.com/">Shisho2k</a> (translated from Japanese as "Branch", but pronounced "Sisho"). It was kept from 2008 to approximately 2013, but data after 2011 was not preserved.</div></div>
 
-<div class="side-by-side"><div class="img-box"><img src="Art.2.2png.png" alt="Image"><div class="img-caption">Profile photo in 2014, 2015, and 2018</div></div><div class="text-box">[Avencherus](https://web.archive.org/web/20150905232045/http:/avencherus.deviantart.com/) was kept from 2014 to 2018. Unfortunately, this account was preserved worse than all: only page data for 2015 and 2016 were preserved.</div></div>
+<div class="side-by-side"><div class="img-box"><img src="Art.2.2png.png" alt="Image"><div class="img-caption">Profile photo in 2014, 2015, and 2018</div></div><div class="text-box"><a href="https://web.archive.org/web/20150905232045/http:/avencherus.deviantart.com/">Avencherus</a> was kept from 2014 to 2018. Unfortunately, this account was preserved worse than all: only page data for 2015 and 2016 were preserved.</div></div>
 
 Also, from this moment I will call Nemlei's husband "**Avencherus**", occasionally returning to "**Husband**".
 
