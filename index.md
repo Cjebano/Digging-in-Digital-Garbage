@@ -50,7 +50,7 @@ For convenience, I will divide the [kattiapina](https://web.archive.org/web/2015
 
 The accounts of the second developer, or rather Nemlei's husband, were called:
 
-<div class="side-by-side"><div class="img-box"><img src="Art.3.png" style="width: 250px !important; max-width: 250px !important; height: auto !important; border-radius: 8px;" alt="Image"><div class="img-caption">Profile photo (I still haven't figured out who's depicted here)</div></div><div class="text-box"><a href="https://web.archive.org/web/20110324184928/http:/shisho2k.deviantart.com/">Shisho2k</a> (translated from Japanese as "Branch", but pronounced "Sisho"). It was kept from 2008 to approximately 2013, but data after 2011 was not preserved.</div></div>
+<div class="side-by-side"><div class="img-box"><img src="Art.3.png" style="width: 150px !important; max-width: 150px !important; height: auto !important; border-radius: 8px;" alt="Image"><div class="img-caption">Profile photo (I still haven't figured out who's depicted here)</div></div><div class="text-box"><a href="https://web.archive.org/web/20110324184928/http:/shisho2k.deviantart.com/">Shisho2k</a> (translated from Japanese as "Branch", but pronounced "Sisho"). It was kept from 2008 to approximately 2013, but data after 2011 was not preserved.</div></div>
 
 <div class="side-by-side"><div class="img-box"><img src="Art.2.2png.png" alt="Image"><div class="img-caption">Profile photo in 2014, 2015, and 2018</div></div><div class="text-box"><a href="https://web.archive.org/web/20150905232045/http:/avencherus.deviantart.com/">Avencherus</a> was kept from 2014 to 2018. Unfortunately, this account was preserved worse than all: only page data for 2015 and 2016 were preserved.</div></div>
 
