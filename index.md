@@ -74,7 +74,7 @@ Who, judging by the pace of development and the absence of information about the
 
 For now, let's turn to the credits of the forgotten game, from which you can learn about the distribution of responsibilities in the studio: in the credits it is written that programming is done by Avencherus, and art and animation by Kattiapina, also known as Nemlei.
 
-![]()
+![VAH.1.png](VAH.1.png)
 
 Most likely, they made Gun-Toting Cats with this composition, probably the same composition worked on all subsequent projects, and the same composition is working on TCOAAL, which explains the slow pace of development, which indicates that the studio still remains a team of two people with minimal involvement of third-party specialists.
 
