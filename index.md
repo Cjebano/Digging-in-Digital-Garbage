@@ -39,7 +39,12 @@ The sources used in the work, as already mentioned, are 4 accounts on DeviantArt
 
 Nemlei's accounts were called:
 
+<div class="side-by-side"><div class="img-box"><img src="ВАША_КАРТИНКА.png" alt="Image"><div class="img-caption">Текст подписи под картинкой</div></div><div class="text-box">[ruismandariini](https://web.archive.org/web/20120529110241/http:/ruismandariini.deviantart.com/) (translated as "Rye Mandarin"). One was kept from 2010 to 2014, but only the period from 2010 to 2012 was preserved.</div></div>
+
 * [ruismandariini](https://web.archive.org/web/20120529110241/http:/ruismandariini.deviantart.com/) (translated as "Rye Mandarin"). One was kept from 2010 to 2014, but only the period from 2010 to 2012 was preserved. 
+
+<div class="side-by-side"><div class="img-box"><img src="ВАША_КАРТИНКА.png" alt="Image"><div class="img-caption">Текст подписи под картинкой</div></div><div class="text-box"> It was kept from 2014 to 2018. This account was preserved better than the first: the period from 2015 to 2016 was preserved, and one preserved year — 2018.</div></div>
+
 * [kattiapina](https://web.archive.org/web/20151022235741/http:/kattiapina.deviantart.com/) (translated as "Cat Monkey"). It was kept from 2014 to 2018. This account was preserved better than the first: the period from 2015 to 2016 was preserved, and one preserved year — 2018. 
 
 For convenience, I will divide the [kattiapina](https://web.archive.org/web/20151022235741/http:/kattiapina.deviantart.com/) account into two periods. I will call the first period "Yolala", after the developer's first nickname; this period covers 2014 and 2015, and the second, "**Kattiapina**", covers only 2018. Also, in the future, I will sometimes replace the word "**Nemlei**" with "**Kattiapina**" for variety.
