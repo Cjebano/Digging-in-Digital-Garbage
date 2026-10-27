@@ -122,7 +122,7 @@ Now that the necessary digression from the topic is over, we can proceed to what
 
 <div class="side-by-side">
   <div class="img-box" style="flex: 0 0 350px; max-width: 350px;">
-    <img src="ВАША_КАРТИНКА.png" style="width: 100%; max-width: 350px; height: auto; border-radius: 8px;" alt="Internet (Our artist is highly motivated and professional)">
+    <img src="Заглушка 4..png" style="width: 100%; max-width: 350px; height: auto; border-radius: 8px;" alt="Internet (Our artist is highly motivated and professional)">
     <div class="img-caption">Surprise</div>
   </div>
   <div class="text-box">
