@@ -13,6 +13,16 @@ Then, already at the final stage of writing the work, I began to think about whe
 
 I will also separately clarify a couple of things. I know English at an insufficient level to write something like this in it. This text was translated into English by a neural network, but the text was checked for errors and inaccuracies by another person. (But still, if you find inaccuracies or strange turns of phrase, report it in the comments.)
 
+## Table of Contents
+
+* [Introduction](#introduction)
+* [Chapter 1. Background](#chapter-1-background)
+* [Chapter 2. Sources](#chapter-2-sources)
+* [Chapter 3. Kit9studio](#chapter-3-kit9studio)
+* [Chapter 4. Nemlei](#chapter-4-nemlei)
+* [Chapter 5. Avencherus](#chapter-5-avencherus)
+* [Summary](#summary)
+
 
 ## bignored.
 Then, already at the final stage of writing the work, I began to think about where such material could be posted. In the end I came to the conclusion that Reddit is the most suitable platform for this kind of work.
