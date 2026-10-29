@@ -15,7 +15,7 @@ I will also separately clarify a couple of things. I know English at an insuffic
 
 ## Table of Contents
 
-div class="custom-toc">
+<div class="custom-toc">
 <h3 style="margin-top: 0; color: #ffffff;">Table of Contents</h3>
 <ul style="list-style-type: none; padding-left: 0;">
   <li style="margin-bottom: 12px;"><a href="#introduction" style="color: #ffffff; text-decoration: none; font-weight: 500;">Introduction</a></li>
@@ -70,7 +70,6 @@ div class="custom-toc">
   <li style="margin-bottom: 12px;"><a href="#summary" style="color: #ffffff; text-decoration: none; font-weight: 500;">Summary</a></li>
 </ul>
 </div>
-
 
 ## bignored.
 Then, already at the final stage of writing the work, I began to think about where such material could be posted. In the end I came to the conclusion that Reddit is the most suitable platform for this kind of work.
