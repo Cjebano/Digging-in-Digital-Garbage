@@ -258,14 +258,14 @@ Agree, this description fits Ashley's image well, if not perfectly. In my opinio
 
 <div style="clear: both;"></div>
 
-# Chapter 5 Avencherus.
+<h2 id="chapter-5-avencherus" style="position: relative; padding-bottom: 15px; margin-top: 40px;">Chapter 5. Avencherus<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 4px; background: linear-gradient(to right, transparent 0%, #ff8c00 10%, #ff8c00 90%, transparent 100%);"></span></h2>
 
-
-**Avencherus and openness** 
+<h3 id="avencherus-and-openness" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Avencherus and openness<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff8c00 10%, #ff8c00 90%, transparent 100%);"></span></h3>
+ 
 Tumblr and Twitter are indicated, he also indicates in the account description his favorite artist --- Bob Ross. Also in the comments under his work "[The Kisuverse Begins](https://web.archive.org/web/20151031202819/http:/avencherus.deviantart.com/art/The-Kisuverse-Begins-559251536)" he openly speaks about his wife's nationality, he also ran his own group there. But on the first account [Shisho2k](https://web.archive.org/web/20110324184928/http:/shisho2k.deviantart.com/). He is much more frank: so, on this account there is a section "Devious Info", in which he reveals his favorite films, music, favorite writers and other things we will talk about later.
 
+<h3 id="shisho2k-and-avencherus-are-the-same-person" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Shisho2k and Avencherus are the same person<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff8c00 10%, #ff8c00 90%, transparent 100%);"></span></h3> 
 
-**Shisho2k and Avencherus are the same person** 
 It is also worth explaining why the accounts [Shisho2k](https://web.archive.org/web/20110515040544/http:/shisho2k.deviantart.com/) and [Avencherus](https://web.archive.org/web/20150905232045/http:/avencherus.deviantart.com/) are accounts of one person, because at first glance it doesn't look like it: on [Shisho2k](https://web.archive.org/web/20110515040544/http:/shisho2k.deviantart.com/) the person is mainly engaged in drawing with graphite pencils and pens, judging by the information from the "Devious Info" section --- "Tools of the Trade: Graphite Pencils and Pape", while [Avencherus](https://web.archive.org/web/20150905232045/http:/avencherus.deviantart.com/) is engaged exclusively in photography. 
 
 However, if you look at the [Shisho2k](https://web.archive.org/web/20110324184928/http:/shisho2k.deviantart.com/) profile for March 24, 2011, a diary entry "Winning Art Trade" immediately catches your eye, where he rejoices at exchanging paintings with [ruismandariini](https://web.archive.org/web/20120529110241/http:/ruismandariini.deviantart.com/), where he receives from her the painting "Bonus: Animated acid cloud.", and if you open the [Avencherus](https://web.archive.org/web/20160601034105/http:/avencherus.deviantart.com/) account for June 1, 2016 and read the comments section at the very beginning, you can find a comment left by [Yolala](https://web.archive.org/web/20150907030134/http:/kattiapina.deviantart.com/), where she sends him a painting, in response to which [Avencherus](https://web.archive.org/web/20160601034105/http:/avencherus.deviantart.com/) sends "Bonus: Animated acid cloud." with the words "Iconic icons." 
@@ -274,15 +274,17 @@ Also [Shisho2k](https://web.archive.org/web/20110324184928/http:/shisho2k.devian
 ![Proof](изображение_2026-10-21_221756423.png)
 
 
-**Avencherus's hobbies** 
+<h3 id="avencheruss-hobbies" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Avencherus's hobbies<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff8c00 10%, #ff8c00 90%, transparent 100%);"></span></h3>
+ 
 As we already know, he is an American who moved to Finland sometime before 2014. Judging by the [Shisho2k](https://web.archive.org/web/20110324184928/http:/shisho2k.deviantart.com/) account, at the beginning of his creative path he drew exclusively with graphite pencils, but this was not his main occupation, for example, in the ["About me"](https://web.archive.org/web/20110324184928/http:/shisho2k.deviantart.com/) section he openly writes that he is a software developer, which is confirmed by the diary entry from November 7, 2012 "[My Game Map](https://web.archive.org/web/20121107053523/http:/shisho2k.deviantart.com/)", in which he talks about a map he created for an online game, but already on the [Avencherus](https://web.archive.org/web/20150905232045/http:/avencherus.deviantart.com/) account he publishes only photographs taken with macro photography, for example, on his account you can find many paintings, for example "[Fading Blue Crystal](https://web.archive.org/web/20150912034936/http:/avencherus.deviantart.com/art/Fading-Blue-Crystal-558393332)", from the descriptions under his photographs one can understand that most of them are dedicated to nature. 
 
 Also Avencherus has the same love for cats as Nemlei: so, half of his photographs in the gallery depict cats, also on his account there is a separate collection "Spectacular Cat Gallery" which contains more than 200 images of cats. As on his avatar something cat-like is depicted, besides all joint works with Kattiapina were dedicated to cats, for example, "[Night of the Ghost Cats](https://web.archive.org/web/20151025200353/http:/avencherus.deviantart.com/art/Night-of-the-Ghost-Cats-552101294)", which is surprising, since on the [Shisho2k](https://web.archive.org/web/20110515040544/http:/shisho2k.deviantart.com/) account there are no hints at all of love for cats, so apparently he adopted it from Nemlei. 
 
 From what has been said, one can conclude that Avencherus, due to his profession, has a very indirect relation to art, which, however, does not prevent him from actively expressing himself either through drawing, or through photography, or even literature, for example, he has one story "[Afraid to Look Back](https://web.archive.org/web/20110515040544mp_/http:/shisho2k.deviantart.com/art/Afraid-to-Look-Back-206912871?q=gallery%3Ashisho2k&qo=2)", which speaks of Avencherus's active creative search in the period from 2010--2015, but their result, unfortunately, cannot be known, however, one can assume that he came to self-expression in the form of creating video games.
 
+<h3 id="why-avencherus-still-works-with-nemlei" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Why Avencherus still works with Nemlei<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff8c00 10%, #ff8c00 90%, transparent 100%);"></span></h3>
 
-**Why Avencherus still works with Nemlei** 
+
 As we remember from the description of Nemlei's account on "[itch.io](https://web.archive.org/web/20190716192015/https:/nemlei.itch.io/)" since 2019 she works alone.
 
   "I make visual novels all by myself"
@@ -295,10 +297,14 @@ Therefore, I believe that a solo beginner cannot maintain such a brisk pace of r
 
 Thus, the theory I put forward about the divergence of these two people is refuted. The reason for the winding down of their presence in 2019: as I wrote, most likely the isolation in 2019 is connected with the incompatibility of full openness and the pace of development.
 
+<h3 id="avencherus-and-world-culture" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Avencherus and world culture<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff8c00 10%, #ff8c00 90%, transparent 100%);"></span></h3>
 
+<p>Based on the diary entry "Devious Info", his favorite films are "Fight Club", "Children of Men", "WALL-E", "The Thing", "Alien"; the first three especially interest me, since, despite the fact that at first glance there is no connection between them, however, in essence all these films are united by one theme --- criticism of consumer society. Thus, "Fight Club" criticizes consumerism as a false source of identity. "Children of Men" explores another problem of consumer society, namely the decline in birth rate, by bringing the problem to the point of absurdity: so, in the universe of this film, people have lost the ability to reproduce. And "WALL-E" criticizes excessive consumption, painting a joyless future for humanity, where it has polluted the earth to a state unfit for life and dumped its cleanup on robots, while it itself went off, flying into deep space, where it continued to lead such a hedonistic lifestyle. Thus, one can come to the conclusion that Avencherus is a person deeply interested in modern problems and the further future of humanity, which is also confirmed by his literary interests: these are Christopher Hitchens and Noam Chomsky, both writers in the media field occupied positions of critics of consumer society.</p>
 
+<p>Also interesting is the phrase he left in the description of his <a href="https://web.archive.org/web/20150912034936/http:/avencherus.deviantart.com/">Avencherus</a> profile "Realist in progress", in translation and context it most likely means "realist in progress". That is, a person in the process of forming his picture of the world, relying mainly on realism, including in art.</p>
 
-**Avencherus and world culture**
+<h3 id="avencherus-prototype-of-andrew" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Avencherus --- prototype of Andrew?<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff8c00 10%, #ff8c00 90%, transparent 100%);"></span></h3>
+
 Such an opinion may arise as a logical development of the theory about the similarity of the character Ashley and Nemlei, and at first glance it may indeed seem so, because the following entry in the diary of [Avencherus](https://web.archive.org/web/20130401091907/http:/shisho2k.deviantart.com/) "Random Thoughts #1 - Infinity and the Universe"
 
 ![A screenshot from his page](изображение_2026-10-21_221906533.png)
@@ -322,7 +328,7 @@ Also in the entry "[Random Thoughts #3 - Democracy](https://web.archive.org/web/
 And such frequent mention of "confidence" may indicate that Avencherus may lack it, as well as the character Andrew, however, in the end, in my opinion, relying only on diary entries written more than 10 years ago, making such far-reaching conclusions is premature, however, I still believe that in any case I do not consider him the sole prototype of Andrew on the grounds that Nemlei, despite all the criticism expressed in her direction, in my opinion, really has too good an imagination to simply copy the characters of the heroes from her immediate environment with minimal changes. I am inclined to believe that the answer to this question is rather no than yes.
 
 
-**Avencherus — secret writer of TCOAAL!?**
+<h3 id="avencherus-secret-writer-of-tcoaal" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Avencherus --- secret writer of TCOAAL!?<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff8c00 10%, #ff8c00 90%, transparent 100%);"></span></h3>
 
 <div style="float: left; width: 250px; margin-right: 25px; margin-bottom: 15px;">
 <img src="Заглушка 2.png" style="width: 100%; border-radius: 8px;" alt="Image">
