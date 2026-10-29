@@ -250,7 +250,7 @@ Also in the game there is one detail that is not spoken about at all, like the r
 ![Screenshot of the message](изображение_2026-10-21_221736973.png) 
 
 <div style="float: right; width: 250px; margin-left: 25px; margin-bottom: 15px;">
-<img src="ИМЯ_КАРТИНКИ.png" style="width: 100%; border-radius: 8px;" alt="Hooray">
+<img src="Заглушка 1.png" style="width: 100%; border-radius: 8px;" alt="Hooray">
 <div style="text-align: center; font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 8px;">HOORAY</div>
 </div>
 
