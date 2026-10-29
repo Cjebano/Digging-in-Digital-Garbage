@@ -16,58 +16,61 @@ I will also separately clarify a couple of things. I know English at an insuffic
 ## Table of Contents
 
 <div class="custom-toc">
-<h3 style="margin-top: 0; color: #ffffff;">Table of Contents</h3>
-<ul style="list-style-type: none; padding-left: 0;">
-  <li style="margin-bottom: 12px;"><a href="#introduction" style="color: #ffffff; text-decoration: none; font-weight: 500;">Introduction</a></li>
-  <li style="margin-bottom: 12px;"><a href="#chapter-1-background" style="color: #ffffff; text-decoration: none; font-weight: 500;">Chapter 1. Background</a></li>
-  <li style="margin-bottom: 12px;"><a href="#chapter-2-sources" style="color: #ffffff; text-decoration: none; font-weight: 500;">Chapter 2. Sources</a></li>
+<h3>Table of Contents</h3>
+<ul>
+  <li><a href="#introduction" class="toc-main-link">Introduction</a></li>
+  <li><a href="#chapter-1-background" class="toc-main-link">Chapter 1. Background</a></li>
+  <li><a href="#chapter-2-sources" class="toc-main-link">Chapter 2. Sources</a></li>
 
-  <li style="margin-bottom: 12px;">
+  <li>
     <details>
-      <summary>Chapter 3. Kit9studio</summary>
-      <ul style="list-style-type: none; padding-left: 20px; margin-top: 10px;">
-        <li style="margin-bottom: 8px;"><a href="#gun-toting-cats">Gun-Toting Cats</a></li>
-        <li style="margin-bottom: 8px;"><a href="#all-i-wanted-was-a-bouncy-ball">All I Wanted Was a Bouncy Ball</a></li>
-        <li style="margin-bottom: 8px;"><a href="#conclusion-ch3">Conclusion</a></li>
+      <summary class="toc-main-link">Chapter 3. Kit9studio</summary>
+      <ul class="toc-sub-list">
+        <li><a href="#chapter-3-kit9studio">Overview & History</a></li>
+        <li><a href="#gun-toting-cats">Gun-Toting Cats</a></li>
+        <li><a href="#all-i-wanted-was-a-bouncy-ball">All I Wanted Was a Bouncy Ball</a></li>
+        <li><a href="#conclusion-ch3">Conclusion</a></li>
       </ul>
     </details>
   </li>
 
-  <li style="margin-bottom: 12px;">
+  <li>
     <details>
-      <summary>Chapter 4. Nemlei</summary>
-      <ul style="list-style-type: none; padding-left: 20px; margin-top: 10px;">
-        <li style="margin-bottom: 8px;"><a href="#nemlei-and-society">Nemlei and society</a></li>
-        <li style="margin-bottom: 8px;"><a href="#nemleis-creativity">Nemlei's creativity</a></li>
-        <li style="margin-bottom: 8px;"><a href="#nemleis-marital-status">Nemlei's marital status</a></li>
-        <li style="margin-bottom: 8px;"><a href="#does-nemlei-have-an-incest-fetish">Does Nemlei have an incest fetish?</a></li>
-        <li style="margin-bottom: 8px;"><a href="#are-the-finns-making-the-game">Are the Finns making the game?</a></li>
-        <li style="margin-bottom: 8px;"><a href="#how-old-is-nemlei">How old is Nemlei?</a></li>
-        <li style="margin-bottom: 8px;"><a href="#nemleis-worldview">Nemlei's worldview</a></li>
-        <li style="margin-bottom: 8px;"><a href="#nemlei-and-writing">Nemlei and writing</a></li>
-        <li style="margin-bottom: 8px;"><a href="#nemleis-interests">Nemlei's interests</a></li>
-        <li style="margin-bottom: 8px;"><a href="#conclusion-ch4">Conclusion</a></li>
+      <summary class="toc-main-link">Chapter 4. Nemlei</summary>
+      <ul class="toc-sub-list">
+        <li><a href="#chapter-4-nemlei">Overview</a></li>
+        <li><a href="#nemlei-and-society">Nemlei and society</a></li>
+        <li><a href="#nemleis-creativity">Nemlei's creativity</a></li>
+        <li><a href="#nemleis-marital-status">Nemlei's marital status</a></li>
+        <li><a href="#does-nemlei-have-an-incest-fetish">Does Nemlei have an incest fetish?</a></li>
+        <li><a href="#are-the-finns-making-the-game">Are the Finns making the game?</a></li>
+        <li><a href="#how-old-is-nemlei">How old is Nemlei?</a></li>
+        <li><a href="#nemleis-worldview">Nemlei's worldview</a></li>
+        <li><a href="#nemlei-and-writing">Nemlei and writing</a></li>
+        <li><a href="#nemleis-interests">Nemlei's interests</a></li>
+        <li><a href="#conclusion-ch4">Conclusion</a></li>
       </ul>
     </details>
   </li>
 
-  <li style="margin-bottom: 12px;">
+  <li>
     <details>
-      <summary>Chapter 5. Avencherus</summary>
-      <ul style="list-style-type: none; padding-left: 20px; margin-top: 10px;">
-        <li style="margin-bottom: 8px;"><a href="#avencherus-and-openness">Avencherus and openness</a></li>
-        <li style="margin-bottom: 8px;"><a href="#shisho2k-and-avencherus-are-the-same-person">Shisho2k and Avencherus are the same person</a></li>
-        <li style="margin-bottom: 8px;"><a href="#avencheruss-hobbies">Avencherus's hobbies</a></li>
-        <li style="margin-bottom: 8px;"><a href="#why-avencherus-still-works-with-nemlei">Why Avencherus still works with Nemlei</a></li>
-        <li style="margin-bottom: 8px;"><a href="#avencherus-and-world-culture">Avencherus and world culture</a></li>
-        <li style="margin-bottom: 8px;"><a href="#avencherus-prototype-of-andrew">Avencherus --- prototype of Andrew?</a></li>
-        <li style="margin-bottom: 8px;"><a href="#avencherus-secret-writer-of-tcoaal">Avencherus --- secret writer of TCOAAL!?</a></li>
-        <li style="margin-bottom: 8px;"><a href="#conclusion-ch5">Conclusion</a></li>
+      <summary class="toc-main-link">Chapter 5. Avencherus</summary>
+      <ul class="toc-sub-list">
+        <li><a href="#chapter-5-avencherus">Overview</a></li>
+        <li><a href="#avencherus-and-openness">Avencherus and openness</a></li>
+        <li><a href="#shisho2k-and-avencherus-are-the-same-person">Shisho2k and Avencherus are the same person</a></li>
+        <li><a href="#avencheruss-hobbies">Avencherus's hobbies</a></li>
+        <li><a href="#why-avencherus-still-works-with-nemlei">Why Avencherus still works with Nemlei</a></li>
+        <li><a href="#avencherus-and-world-culture">Avencherus and world culture</a></li>
+        <li><a href="#avencherus-prototype-of-andrew">Avencherus --- prototype of Andrew?</a></li>
+        <li><a href="#avencherus-secret-writer-of-tcoaal">Avencherus --- secret writer of TCOAAL!?</a></li>
+        <li><a href="#conclusion-ch5">Conclusion</a></li>
       </ul>
     </details>
   </li>
 
-  <li style="margin-bottom: 12px;"><a href="#summary" style="color: #ffffff; text-decoration: none; font-weight: 500;">Summary</a></li>
+  <li><a href="#summary" class="toc-main-link">Summary</a></li>
 </ul>
 </div>
 
