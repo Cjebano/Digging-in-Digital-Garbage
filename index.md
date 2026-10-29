@@ -129,8 +129,8 @@ And that’s it, plus a link to an empty Twitter account. This is the first even
 Here, however, it is worth stipulating: the reason for this shift is not directly recorded in the surviving sources. The chronology points to 2019, but does not explain it. And here the question arises: what made these people change their strategy so radically? Did they realize that they could not simultaneously work on games and maintain an active online presence? Or were they harassed so much that they decided to break with everything?
 But then why does she write in the account description that she works alone? Maybe disagreements arose between them, as a result of which the company Kit9studio fell apart? One could speculate for a long time about what happened. But the conclusion from this demagogy can be only one — we need to dig further.
 
+<h2 id="chapter-4-nemlei" style="border-bottom: 3px solid #00d2ff; padding-bottom: 5px; width: fit-content; margin-top: 40px;">Chapter 4. Nemlei</h2>
 
-# Chapter 4. Nemlei
 This chapter will focus on Nemlei herself and the facts that became known as a result of studying the DeviantArt accounts. I repeat, the developers themselves do not interest me per se, I am interested in their personalities strictly in the context of the game and nothing else. The narrative will be built on the principle of ascent from obvious facts to not so obvious ones, in other words, the narrative will be built on the principle of an iceberg, but in the chapter with Nemlei, that with the help of information from these accounts I will periodically dispel myths that Nemlei has become overgrown with over the years, at the end of each level I will summarize and based on the stated facts put forward my theories regarding the game and characters. Each developer account will not be analyzed separately; instead, information will be presented in a unified form in chapters dedicated to one of the two developers. Each fact will be supported by a corresponding link to a comment confirming this or that assumption, sometimes links to journal entries of Nemlei and Avencherus.
 Now that the necessary digression from the topic is over, we can proceed to what you opened and read all this for (or just skimmed through to these lines). If you really did that, I recommend stopping right now and at least briefly re-reading the previous chapters, because otherwise you might miss many important things. And did I bust my ass writing this for nothing?
 
@@ -163,12 +163,14 @@ With the transition to game development, Nemlei switched to a graphics tablet in
 *   The second visual style can be called bright or "Kattiapina"; in it, on the contrary, a large number of colors are used, but special emphasis is placed on bright colors, a similar style is used by Nemlei for games in a fantasy setting, the reference points of this style are No good Noelle and Jack In A Castle. This style emerged later, but Kattiapina has much more experience with it, as she has been drawing games in this style since 2018.
 
 
-**Nemlei's marital status** As is known, she is married, and her husband (whom we will talk about in the corresponding section) actively participates in development. But on the "[ruismandariini](https://web.archive.org/web/20120306102054/http:/ruismandariini.deviantart.com/)" account in the "journal" section, in the last entry she mentions an older sister and brother. What is more interesting, although one could have guessed about the existence of a brother in Nemlei (just by playing the game). However, there is no information about the brother, except that Yolala treats him well, as well as her sister, about whom there is already more information, but not by much :) 
+**Nemlei's marital status** 
+As is known, she is married, and her husband (whom we will talk about in the corresponding section) actively participates in development. But on the "[ruismandariini](https://web.archive.org/web/20120306102054/http:/ruismandariini.deviantart.com/)" account in the "journal" section, in the last entry she mentions an older sister and brother. What is more interesting, although one could have guessed about the existence of a brother in Nemlei (just by playing the game). However, there is no information about the brother, except that Yolala treats him well, as well as her sister, about whom there is already more information, but not by much :) 
 
 So, on the Yolala account there is a painting "[Potato cats](https://web.archive.org/web/20151209075708/http:/kattiapina.deviantart.com/art/Potato-cats-524737521)", and in the description Nemlei says that the cat and two kittens represent her sister and her children, from which one can conclude that the sister is much older than Nemlei, but this is not certain. There is no information about the parents.
 
 
-**Does Nemlei have an incest fetish?** As a result of this research, I came to the conclusion that rather no than yes. But before analyzing this myth, it is worth, in order to form a complete picture, to analyze the history of its appearance. Like many other myths, it originates from October-November 2023. 
+**Does Nemlei have an incest fetish?**
+As a result of this research, I came to the conclusion that rather no than yes. But before analyzing this myth, it is worth, in order to form a complete picture, to analyze the history of its appearance. Like many other myths, it originates from October-November 2023. 
 
 As you might guess, it appeared mainly because of a scene in the second episode on the Burial path, because of which the scandal began, but this scene itself would not have had any significance if not for various hints at a "special" connection between the main characters, from direct ones, like Ashley's jokes about sex, to hidden ones, like the fact that they sleep in the same bed in a motel room at the beginning of the second chapter. 
 
@@ -187,12 +189,16 @@ So, on [ruismandariini](https://web.archive.org/web/20120529110241/http:/ruisman
 However, among her games there is Better Half, where there is a pair of brother and sister, and the sister is younger than the brother. Doesn't remind you of anything? However... in the game there is no love line between them in any form, not even one risque joke.
 
 
-**How old is Nemlei?** If you go to the ruismandariini account and look at the 2012 archives in the "About me" section, "18 October" will be indicated there. The exact year of birth is not indicated. However, in the same section it is written that she is a student. The kattiapina account for 2015 also confirms that she was still studying.
+**How old is Nemlei?** 
+
+If you go to the ruismandariini account and look at the 2012 archives in the "About me" section, "18 October" will be indicated there. The exact year of birth is not indicated. However, in the same section it is written that she is a student. The kattiapina account for 2015 also confirms that she was still studying.
 
 If one assumes that she entered immediately after school at 18--19 years old, then her year of birth is 1992--1994, and in 2026 she is approximately 32--34 years old. However, one can be a student at an older age as well --- with late enrollment, a change of specialty, or a second higher education. If one allows that at the time of her studies she was 20--21 years old, the upper bound shifts: the year of birth is 1991, that is, she may be 35 years old.
 
 
-**Nemlei's worldvie** This section will focus on the strangest, but all the more fascinating element that in a psychological horror about codependent relationships there is criticism of corporatism in the person of the company "Toxisoda", which the developers in episode 3 developed and added its connection with the main line through a demon, which suggests that it is important to the developers. And besides this, the presence in the game of a significant share of satire on modern society and the media, in particular. 
+**Nemlei's worldvie** 
+
+This section will focus on the strangest, but all the more fascinating element that in a psychological horror about codependent relationships there is criticism of corporatism in the person of the company "Toxisoda", which the developers in episode 3 developed and added its connection with the main line through a demon, which suggests that it is important to the developers. And besides this, the presence in the game of a significant share of satire on modern society and the media, in particular. 
 
 Therefore, it is logical to assume that Nemlei as the main writer has some opinion on this matter, since she seeks to express it. However, as a result of studying [ruismandariini](https://web.archive.org/web/20120529110241/http:/ruismandariini.deviantart.com/) and [kattiapina](https://web.archive.org/web/20150907030134/http:/kattiapina.deviantart.com/), I did not find any information at least indirectly speaking about her anti-corporate position. Therefore, most likely Nemlei has no anti-corporate position, since in almost 7 years of being on the internet with her openness it is impossible not to express oneself at least somehow about the world around you, both in text and in the form of a painting, unless you are not interested in it, therefore the question arises: where did she get such a position?
 
@@ -227,6 +233,7 @@ Therefore, I personally believe that Ashley, and maybe Andrew, has a background 
 
 
 **Nemlei's interests** 
+
 Before starting, it should be clarified that interests are things that can change over a long period of time, so what interested Yolala or Avencherus in 2015 could have lost meaning for them ten years later. On the [kattiapina](https://web.archive.org/web/20151023031657/http:/kattiapina.deviantart.com/) (Yolala) account in the "journal" section you can find out what music Nemlei listens to: mainly rock, including Finnish, but rock is not limited to that. 
 
 In the description under the painting "[Knock Out Gimmi Gimmi](https://web.archive.org/web/20151203001456/http:/kattiapina.deviantart.com/art/Knock-Out-Gimmi-Gimmi-513665388)" there is a working link to one of Nemlei's favorite songs (at the time of 2015) --- honestly, I was disappointed, it's cheap pop. On the same account she also wrote about her passion for comics, although this could have been understood earlier: so, under the work "[points of view](https://web.archive.org/web/20120327221038/http:/ruismandariini.deviantart.com/art/points-of-view-270982696)" she wrote that it would be convenient for her to explain everything with a comic. 
@@ -235,6 +242,7 @@ However, all this pales before her main passion, which, apparently, goes with he
 
 
 **Conclusion**
+
 The first thing to say: Kattiapina at the time of creating "The Coffin of Andy and Leyley" was already a formed personality with a lot of life experience behind her, including having been married for many years, which explains the game's clear negative position towards the heroes of its own story. Which is rare for this kind of game, and for games in general these days. Also, the existence of a brother explains why the relationship between brother and sister is so well conveyed in the game (however ambiguous that may sound).
 
 The love for guro explains all this cruelty in the game (remember at least the gameplay part where we had to get rid of the parents' bodies). And the love for comics explains these, as it were, comic-styled inserts. Also, the nationality of the husband involved in development directly explains the Americanization of the game and characters, but his influence is not limited to this, as discussed in the next section.
