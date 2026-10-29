@@ -98,3 +98,37 @@ img:not(.side-img) {
     margin: 0 auto !important; 
   }
 }
+.custom-toc summary {
+  cursor: pointer !important;
+  font-weight: 500 !important;
+  color: #ffffff !important;
+  list-style: none !important;
+  outline: none !important;
+}
+
+.custom-toc summary::-webkit-details-marker {
+  display: none !important;
+}
+
+.custom-toc summary::before {
+  content: '+' !important;
+  display: inline-block !important;
+  width: 20px !important;
+  color: #7ab8ff !important;
+  font-weight: bold !important;
+  font-size: 18px !important;
+}
+
+.custom-toc details[open] summary::before {
+  content: '-' !important;
+}
+
+.custom-toc details ul a {
+  color: #aaaaaa !important;
+  text-decoration: none !important;
+  font-size: 15px !important;
+}
+
+.custom-toc details ul a:hover {
+  color: #7ab8ff !important;
+}
