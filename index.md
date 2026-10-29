@@ -136,7 +136,7 @@ This chapter will focus on Nemlei herself and the facts that became known as a r
 Now that the necessary digression from the topic is over, we can proceed to what you opened and read all this for (or just skimmed through to these lines). If you really did that, I recommend stopping right now and at least briefly re-reading the previous chapters, because otherwise you might miss many important things. And did I bust my ass writing this for nothing?
 
 
-**Nemlei and society** 
+<h3 id="nemlei-and-society" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Nemlei and society<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #1abc9c 10%, #1abc9c 90%, transparent 100%);"></span></h3>
 
 <div class="side-by-side"><div class="img-box"><img src="Заглушка 4..png" style="width: 100%; max-width: 250px; height: auto; border-radius: 8px;" alt="Social Media"><div class="img-caption">Internet (Our artist is highly motivated and professional)</div></div><div class="text-box"><p>If you go to the account and go to the comments on the main page or comments under the paintings, she replies to every comment everywhere, in general she often corresponds with someone <a href="https://web.archive.org/web/20120313023809/http://ruismandariini.deviantart.com/art/Looki-look-262710287">Looki look</a> and <a href="https://web.archive.org/web/20120327113200/http://ruismandariini.deviantart.com/art/I-ain-t-stuck-258507287">I ain't stuck</a>, and sometimes even very liberated, like here 
 <a href="https://web.archive.org/web/20120411145024/http://ruismandariini.deviantart.com/art/re-crap-257060093">re-crap</a>, what can I say, they did a whole interview with her 
