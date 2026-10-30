@@ -248,7 +248,7 @@ However, among her games there is Better Half, where there is a pair of brother 
 
 <h3 id="how-old-is-nemlei" style="position: relative; padding-bottom: 10px; margin-top: 30px;">How old is Nemlei?<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #1abc9c 10%, #1abc9c 90%, transparent 100%);"></span></h3>
 
-If you go to the ruismandariini account and look at the 2012 archives in the "About me" section, "18 October" will be indicated there. The exact year of birth is not indicated. However, in the same section it is written that she is a student. The kattiapina account for 2015 also confirms that she was still studying.
+The exact year of birth is not indicated. However, in the same section it is written that she is a student. The kattiapina account for 2015 also confirms that she was still studying.
 
 If one assumes that she entered immediately after school at 18--19 years old, then her year of birth is 1992--1994, and in 2026 she is approximately 32--34 years old. However, one can be a student at an older age as well --- with late enrollment, a change of specialty, or a second higher education. If one allows that at the time of her studies she was 20--21 years old, the upper bound shifts: the year of birth is 1991, that is, she may be 35 years old.
 
