@@ -218,7 +218,7 @@ On the [kattiapina](https://web.archive.org/web/20151023031657/http:/kattiapina.
 <div style="display: flex; justify-content: center; gap: 30px; margin: 30px 0; flex-wrap: wrap;">
 
   <div style="width: 250px; text-align: center;">
-    <img src="VAH3.png" style="width: 220px; height: 320px; object-fit: cover; border-radius: 8px; display: block;" alt="Image 1">
+    <img src="VAH3.png" style="width: 225px; height: 320px; object-fit: cover; border-radius: 8px; display: block;" alt="Image 1">
     <div style="font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 10px;">Picture from (ruismandariini) for 2012</div>
   </div>
 
@@ -320,9 +320,14 @@ The first thing to say: Kattiapina at the time of creating "The Coffin of Andy a
 The love for guro explains all this cruelty in the game (remember at least the gameplay part where we had to get rid of the parents' bodies). And the love for comics explains these, as it were, comic-styled inserts. Also, the nationality of the husband involved in development directly explains the Americanization of the game and characters, but his influence is not limited to this, as discussed in the next section.
 Also, the success of the game becomes more understandable, since it is in TCOAAL that Nemlei as the main writer began to draw more, since it was in this game that these comic inserts first appeared, which freed Nemlei from writing any actions, since she draws much better than she writes.
 
+<div style="float: left; width: 300px; margin-right: 25px; margin-bottom: 15px;">
+  <img src="изображение_2026-10-21_221736973.png" style="width: 100%; border-radius: 8px;" alt="Quote">
+</div>
+
 Also in the game there is one detail that is not spoken about at all, like the rabbits, by the way. Ashley has been drawing since early childhood, like Nemlei, which can be understood from this interview "[Were talking crash here](https://web.archive.org/web/20120305012228/http:/sharpteethterrors.deviantart.com/journal/Were-talking-crash-here-261016848)", however, due to the fact that Ashley received no criticism, but only praise (remember the moment in the car from episode 3), she did not progress in any way and therefore at 20 years old she draws just as badly, unlike Nemlei. Since in 2010 on [ruismandariini](https://web.archive.org/web/20100723043735/http:/ruismandariini.deviantart.com/) in the "About me" section she said that one of her goals of being on DeviantArt is to "become a better artist", that is, to improve herself as an author. And finally, I will quote Nemlei's own words about herself, written in 2010 in the "About me" section, when she was 18 years old:
-     
-![Screenshot of the message](изображение_2026-10-21_221736973.png) 
+
+<div style="clear: both;"></div>
+
 
 <div style="float: right; width: 250px; margin-left: 25px; margin-bottom: 15px;">
 <img src="Заглушка 1.png" style="width: 100%; border-radius: 8px;" alt="Hooray">
