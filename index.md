@@ -229,7 +229,6 @@ On the [kattiapina](https://web.archive.org/web/20151023031657/http:/kattiapina.
 
 </div>
 
-
 As she herself wrote about this under the painting "[Kisu Is A Cat](https://web.archive.org/web/20151102055324/http:/kattiapina.deviantart.com/art/Kisu-Is-A-Cat-510209228)", she did not want to be remembered as an artist who draws in the same style.
 
 With the transition to game development, Nemlei switched to a graphics tablet in 2018. But here it is worth making a reservation that the period from 2016--2017 was not preserved, so she could have started drawing on a tablet precisely in those years, but there is no evidence of that, so I believe that she began drawing on a tablet on a regular basis from 2018, but her two graphic styles finally formed around 2020 with the release of the studio's second game "Divilethion". From this moment we can talk about two full-fledged styles that Nemlei uses. 
