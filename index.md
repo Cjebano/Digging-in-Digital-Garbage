@@ -386,16 +386,17 @@ And such frequent mention of "confidence" may indicate that Avencherus may lack 
 
 <h3 id="avencherus-secret-writer-of-tcoaal" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Avencherus --- secret writer of TCOAAL!?<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff8c00 10%, #ff8c00 90%, transparent 100%);"></span></h3>
 
-<div style="float: left; width: 250px; margin-right: 25px; margin-bottom: 15px;">
-<img src="Заглушка 2.png" style="width: 100%; border-radius: 8px;" alt="Image">
-<div style="text-align: center; font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 8px;">Surprise</div>
-</div>
-
-As already mentioned earlier, his creative searches also included writing, although these searches include one story "[Afraid to Look Back](https://web.archive.org/web/20110515040544mp_/http://shisho2k.deviantart.com/art/Afraid-to-Look-Back-206912871?q=gallery%3Ashisho2k&qo=2)". However, this does not negate the fact that this person is inclined to write large essays-reflections, for example the diary entry on the account "Random Thoughts #1 - Infinity and the Universe", but especially how much more Avencherus writes can be understood by comparing entries with similar content on [Shisho2k](https://web.archive.org/web/20130330054358/http://shisho2k.deviantart.com/) from July 7, 2012 "[Get Featured](https://web.archive.org/web/20120707010956/http://shisho2k.deviantart.com/journal/Get-Featured-286732190)" and on the [ruismandariini](https://web.archive.org/web/20130215040637/http://ruismandariini.deviantart.com/) account from December 1, 2012 "[CONTEST WINNERS~](https://web.archive.org/web/20130215040637/http://ruismandariini.deviantart.com/journal/CONTEST-WINNERS-340672701)".
+<div class="side-by-side">
+  <div class="img-box">
+    <img src="Заглушка 2.png" alt="Image">
+    <div class="img-caption">Surprise</div>
+  </div>
+  <div class="text-box">
+  As already mentioned earlier, his creative searches also included writing, although these searches include one story "[Afraid to Look Back](https://web.archive.org/web/20110515040544mp_/http://shisho2k.deviantart.com/art/Afraid-to-Look-Back-206912871?q=gallery%3Ashisho2k&qo=2)". However, this does not negate the fact that this person is inclined to write large essays-reflections, for example the diary entry on the account "Random Thoughts #1 - Infinity and the Universe", but especially how much more Avencherus writes can be understood by comparing entries with similar content on [Shisho2k](https://web.archive.org/web/20130330054358/http://shisho2k.deviantart.com/) from July 7, 2012 "[Get Featured](https://web.archive.org/web/20120707010956/http://shisho2k.deviantart.com/journal/Get-Featured-286732190)" and on the [ruismandariini](https://web.archive.org/web/20130215040637/http://ruismandariini.deviantart.com/) account from December 1, 2012 "[CONTEST WINNERS~](https://web.archive.org/web/20130215040637/http://ruismandariini.deviantart.com/journal/CONTEST-WINNERS-340672701)".
 
 Therefore, it is logical to assume that maybe the game's community was looking in the wrong place and all this time the author of the plot of all games was Avencherus, and Nemlei was just an artist? However, as I said, information from these sources should be perceived with the condition that it is very outdated, and over these 14 years, six of which Nemlei has been actively writing for 6 years, she could have simply learned, which she did. So already in Better Half there is much less "......" and "Anyway", what can we say about TCOAAL. Also, in general, the text itself with its speech patterns resembles Nemlei's speech rather than Avencherus's; in order not to stretch the chapter into a multi-page lecture on the peculiarities of language, I recommend, to check my words, to read this diary entry of Avencherus "Random Thoughts #1 - Infinity and the Universe", and then compare the manner of presentation of the text with the text, for example, of episode 1 of TCOAAL or in "No good Noelle", because it is short.
-
-<h2 id="summary" style="position: relative; padding-bottom: 15px; margin-top: 40px;">Summary<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 4px; background: linear-gradient(to right, transparent 0%, #ff4d4d 10%, #ff4d4d 90%, transparent 100%);"></span></h2>
+  </div>
+</div>
 
 Now it is worth summing up. First of all, it is worth noting that Avencherus in terms of the scale of his personality, in my opinion, is not inferior to Nemlei, and in some aspects even surpasses her. So, being not as sociable a person as Nemlei, he at the time when Kattiapina was just studying, he already had the specialty of a programmer, which suggests that Avencherus is at least three years older than Nemlei. Also, thanks to his skills, we can play all these games, including TCOAAL, since he is still responsible for its technical component. However, this does not mean that his influence on Nemlei's creativity does not go beyond the technical component.
 
