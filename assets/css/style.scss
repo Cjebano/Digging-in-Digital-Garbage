@@ -172,10 +172,11 @@ img:not(.side-img) {
   color: #7ab8ff !important;
 }
 @media (max-width: 768px) {
-  .side-by-side {
-    flex-direction: column !important;
-  }
-  .side-by-side .img-box {
+  div[style*="float: right"], 
+  div[style*="float: left"] {
+    float: none !important;
+    width: 100% !important;
+    max-width: 300px !important;
     margin: 0 auto 20px auto !important;
   }
 }
