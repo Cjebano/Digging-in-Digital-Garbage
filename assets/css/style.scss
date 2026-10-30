@@ -171,3 +171,11 @@ img:not(.side-img) {
 .custom-toc .toc-sub-list a:hover {
   color: #7ab8ff !important;
 }
+@media (max-width: 768px) {
+  .side-by-side {
+    flex-direction: column !important;
+  }
+  .side-by-side .img-box {
+    margin: 0 auto 20px auto !important;
+  }
+}
