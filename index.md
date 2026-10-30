@@ -218,7 +218,7 @@ On the [kattiapina](https://web.archive.org/web/20151023031657/http:/kattiapina.
 <div style="display: flex; justify-content: center; gap: 30px; margin: 30px 0; flex-wrap: wrap;">
 
   <div style="width: 250px; text-align: center;">
-    <img src="VAH3.png" style="width: 240px; height: 320px; object-fit: cover; border-radius: 8px; display: block;" alt="Image 1">
+    <img src="VAH3.png" style="width: 220px; height: 320px; object-fit: cover; border-radius: 8px; display: block;" alt="Image 1">
     <div style="font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 10px;">Picture from (ruismandariini) for 2012</div>
   </div>
 
