@@ -215,15 +215,15 @@ So, judging by the paintings in 2010 on the [ruismandariini](https://web.archive
 
 On the [kattiapina](https://web.archive.org/web/20151023031657/http:/kattiapina.deviantart.com/) account (Yolala), however, the work becomes more herbivorous --- just go to the two specified accounts and look at the preserved paintings: with the naked eye you can see that her style has generally changed, as have the themes of the paintings, which now feature mostly cats and nature. 
 
-<div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 30px; margin: 30px 0; flex-wrap: wrap; align-items: flex-end;">
   
-  <div style="flex: 1; min-width: 250px; max-width: 48%; text-align: center;">
-    <img src="VAH3.png" style="width: 100%; border-radius: 8px;" alt="Image 1">
+  <div style="flex: 0 1 auto; max-width: 250px; text-align: center;">
+    <img src="VAH3.png" style="width: 100%; height: auto; border-radius: 8px;" alt="Image 1">
     <div style="font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 8px;">Picture from (ruismandariini) for 2012</div>
   </div>
 
-  <div style="flex: 1; min-width: 250px; max-width: 48%; text-align: center;">
-    <img src="VAH2.png" style="width: 100%; border-radius: 8px;" alt="Image 2">
+  <div style="flex: 0 1 auto; max-width: 250px; text-align: center;">
+    <img src="VAH2.png" style="width: 100%; height: auto; border-radius: 8px;" alt="Image 2">
     <div style="font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 8px;">Picture from (kattiapina) for 2015</div>
   </div>
 
