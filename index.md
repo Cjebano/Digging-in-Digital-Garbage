@@ -213,7 +213,24 @@ I should note: the archives are preserved fragmentarily, and the comparison is n
 
 So, judging by the paintings in 2010 on the [ruismandariini](https://web.archive.org/web/20100723043735/http:/ruismandariini.deviantart.com/) account, she was into anime. However, somewhere in 2011--2012, interests shifted towards guro. There are paintings "[hun](https://web.archive.org/web/20120306101753mp_/http:/ruismandariini.deviantart.com/art/hun-277697115?q=gallery%253Aruismandariini%252F25034697&qo=3)" and "[re-crap](https://web.archive.org/web/20120327112145/http:/ruismandariini.deviantart.com/art/re-crap-257060994)", which, unfortunately, were not preserved, but from the comments one can understand their trashy and bloody content, but it is worth clarifying that this does not mean that she began to draw only guro. In general, her early work can be characterized as provocative or evoking emotions with its content "[FLYMAAAAAN](https://web.archive.org/web/20120306104452/http:/ruismandariini.deviantart.com/art/FLYMAAAAAN-277297193)", also separately it is worth noting that she drew exclusively in a traditional style, even despite having a graphics tablet. 
 
-On the [kattiapina](https://web.archive.org/web/20151023031657/http:/kattiapina.deviantart.com/) account (Yolala), however, the work becomes more herbivorous --- just go to the two specified accounts and look at the preserved paintings: with the naked eye you can see that her style has generally changed, as have the themes of the paintings, which now feature mostly cats and nature. As she herself wrote about this under the painting "[Kisu Is A Cat](https://web.archive.org/web/20151102055324/http:/kattiapina.deviantart.com/art/Kisu-Is-A-Cat-510209228)", she did not want to be remembered as an artist who draws in the same style.
+On the [kattiapina](https://web.archive.org/web/20151023031657/http:/kattiapina.deviantart.com/) account (Yolala), however, the work becomes more herbivorous --- just go to the two specified accounts and look at the preserved paintings: with the naked eye you can see that her style has generally changed, as have the themes of the paintings, which now feature mostly cats and nature. 
+
+<div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0; flex-wrap: wrap;">
+  
+  <div style="flex: 1; min-width: 250px; max-width: 48%; text-align: center;">
+    <img src="VAH3.png" style="width: 100%; border-radius: 8px;" alt="Image 1">
+    <div style="font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 8px;">Picture from (ruismandariini) for 2012</div>
+  </div>
+
+  <div style="flex: 1; min-width: 250px; max-width: 48%; text-align: center;">
+    <img src="VAH2.png" style="width: 100%; border-radius: 8px;" alt="Image 2">
+    <div style="font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 8px;">Picture from (kattiapina) for 2015</div>
+  </div>
+
+</div>
+
+
+As she herself wrote about this under the painting "[Kisu Is A Cat](https://web.archive.org/web/20151102055324/http:/kattiapina.deviantart.com/art/Kisu-Is-A-Cat-510209228)", she did not want to be remembered as an artist who draws in the same style.
 
 With the transition to game development, Nemlei switched to a graphics tablet in 2018. But here it is worth making a reservation that the period from 2016--2017 was not preserved, so she could have started drawing on a tablet precisely in those years, but there is no evidence of that, so I believe that she began drawing on a tablet on a regular basis from 2018, but her two graphic styles finally formed around 2020 with the release of the studio's second game "Divilethion". From this moment we can talk about two full-fledged styles that Nemlei uses. 
 
