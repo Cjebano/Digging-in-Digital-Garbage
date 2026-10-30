@@ -414,6 +414,8 @@ As already mentioned earlier, his creative searches also included writing, altho
 
 Therefore, it is logical to assume that maybe the game's community was looking in the wrong place and all this time the author of the plot of all games was Avencherus, and Nemlei was just an artist? However, as I said, information from these sources should be perceived with the condition that it is very outdated, and over these 14 years, six of which Nemlei has been actively writing for 6 years, she could have simply learned, which she did. So already in Better Half there is much less "......" and "Anyway", what can we say about TCOAAL. Also, in general, the text itself with its speech patterns resembles Nemlei's speech rather than Avencherus's; in order not to stretch the chapter into a multi-page lecture on the peculiarities of language, I recommend, to check my words, to read this diary entry of Avencherus "Random Thoughts #1 - Infinity and the Universe", and then compare the manner of presentation of the text with the text, for example, of episode 1 of TCOAAL or in "No good Noelle", because it is short.
  
+<h3 id="conclusion-2" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Conclusion<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff8c00 10%, #ff8c00 90%, transparent 100%);"></span></h3>
+
 Now it is worth summing up. First of all, it is worth noting that Avencherus in terms of the scale of his personality, in my opinion, is not inferior to Nemlei, and in some aspects even surpasses her. So, being not as sociable a person as Nemlei, he at the time when Kattiapina was just studying, he already had the specialty of a programmer, which suggests that Avencherus is at least three years older than Nemlei. Also, thanks to his skills, we can play all these games, including TCOAAL, since he is still responsible for its technical component. However, this does not mean that his influence on Nemlei's creativity does not go beyond the technical component.
 
 Even despite the fact that he has no direct relation to writing the text, this does not mean that there is no influence on the game. At this point it is worth returning back to the conclusions of chapter 4, where I among other things said:
@@ -444,8 +446,7 @@ One could actually go on for a long time, so I will lead to the fact that in the
 
 This led me to think that the anti-corporate line was written by Nemlei, but not by herself --- but under the influence of Avencherus. He could have suggested the idea to her, given her Chomsky to read, discussed it with her. But the implementation is her work. In the third episode, this line becomes more complex and deeper, which may indicate that Nemlei either understood the topic better, or Avencherus began to participate more actively in writing. Either way, the political layer of TCOAAL is the result of their joint work, and not someone's sole contribution in my opinion.
 
-
-# Summary
+<h2 id="summary" style="position: relative; padding-bottom: 15px; margin-top: 40px;">Summary<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 4px; background: linear-gradient(to right, transparent 0%, #ff4d4d 10%, #ff4d4d 90%, transparent 100%);"></span></h2>
 
 Approaching the end of this titanic work for me personally, it is worth summing up the final result on the two main directions of research in this work, namely the internal state of Kit9studio. And also the interpretation of some moments directly in the game itself.
 
