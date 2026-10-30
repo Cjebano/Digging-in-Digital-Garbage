@@ -196,7 +196,7 @@ Now that the necessary digression from the topic is over, we can proceed to what
 <a href="https://web.archive.org/web/20150907030134/http://kattiapina.deviantart.com/">kattiapina</a>. 
 
 <div style="float: right; width: 250px; margin-left: 20px; margin-bottom: 15px;">
-  <img src="ТВОЯ_КАРТИНКА.png" style="width: 100%; border-radius: 8px;" alt="Image">
+  <img src="изображение_2026-10-30_233754358.png" style="width: 100%; border-radius: 8px;" alt="Image">
   <div style="text-align: center; font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 8px;">on the back burner</div>
 </div>
 
