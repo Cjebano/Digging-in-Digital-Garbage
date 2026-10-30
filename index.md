@@ -195,6 +195,11 @@ Now that the necessary digression from the topic is over, we can proceed to what
 <a href="https://web.archive.org/web/20120111015255/http://ruismandariini.deviantart.com/">ruismandariini</a> right in the page description both email and Skype are indicated, and on the account 
 <a href="https://web.archive.org/web/20150907030134/http://kattiapina.deviantart.com/">kattiapina</a>. 
 
+<div style="float: right; width: 250px; margin-left: 20px; margin-bottom: 15px;">
+  <img src="ТВОЯ_КАРТИНКА.png" style="width: 100%; border-radius: 8px;" alt="Image">
+  <div style="text-align: center; font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 8px;">on the back burner</div>
+</div>
+
 The description also includes Instagram, Tumblr, and <a href="https://ask.fm/">ASK.FM</a> (an analogue of Twitter for the Baltic countries). Moreover, if you look at the statistics of the ruismandariini account for 2013, we will see that since 2010 she left more than 6,139 comments over three years, that is, every year she wrote on average 2,040 comments, and if you count precisely, she wrote on average 5-6 comments EVERY DAY for three years. Agree, this contrasts very strongly with what we have today.However, if you look at the second account, kattiapina, the picture becomes even more interesting. Over the entire preserved period — from 2015 to 2018 — there are about a thousand comments.
 This is several times less than on the first account over three years, even though the period of the second account is longer.</p></div></div>
 
