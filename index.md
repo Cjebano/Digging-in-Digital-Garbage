@@ -3,7 +3,7 @@
  ![6.png](5.png)
 
  <div style="background-color: #2b2b2b; border: 1px solid #444; border-left: 5px solid #ff4d4d; border-radius: 8px; padding: 25px 30px; margin: 40px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
-  <h3 style="margin-top: 0; color: #ffffff; font-size: 22px; border-bottom: 1px solid #444; padding-bottom: 10px;">TL;DR: Key Findings</h3>
+  <h3 style="margin-top: 0; color: #ffffff; font-size: 22px; border-bottom: 1px solid #444; padding-bottom: 10px;">Digest</h3>
   <ol style="color: #ffffff; padding-left: 20px; line-height: 1.6; font-size: 16px; margin-bottom: 0;">
     <li style="margin-bottom: 15px;"><strong>The 2023 "disappearance" is not what it seems.</strong> It might look like they were active until the 2023 doxxing. However, the research shows they completely stopped all public activity back in <strong>2019</strong>. The doxxers simply found old, inactive accounts, and the 2023 doxxing only pushed the developers to erase those old traces.</li>
     <li style="margin-bottom: 15px;"><strong>Kit9Studio is a two-person team.</strong> The research confirms the studio consists of Nemlei's husband (Avencherus), who handles all the programming, and Nemlei herself, who is responsible for the writing and art.</li>
