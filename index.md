@@ -16,7 +16,7 @@
 
 ## Table of Contents
 
-<div class="custom-toc">
+<div class="custom-toc" id="toc">
 <h3>Table of Contents</h3>
 <ul>
   <li><a href="#introduction" class="toc-main-link">Introduction</a></li>
