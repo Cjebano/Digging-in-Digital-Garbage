@@ -1,52 +1,17 @@
 # Digging-in-Digital-Garbage
 
-<div style="
-  background-image: url(Картон01..jpg); 
-  background-size: 100% 100%; 
-  background-repeat: no-repeat;
-  background-color: #d4a373;
-  padding: 7% 9%; 
-  margin: 40px 0; 
-  box-shadow: 8px 12px 25px rgba(0,0,0,0.6);
-">
-  <h3 style="
-    margin-top: 0; 
-    color: #1a1a1a; 
-    font-family: 'Courier New', Courier, monospace; 
-    font-size: 24px; 
-    font-weight: 900; 
-    border-bottom: 3px dashed #1a1a1a; 
-    padding-bottom: 10px;
-  ">TL;DR: Key Findings</h3>
-  
-  <ol style="
-    color: #1a1a1a; 
-    padding-left: 20px; 
-    line-height: 1.6; 
-    font-size: 16px; 
-    margin-bottom: 0; 
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: 700;
-  ">
-    <li style="margin-bottom: 15px;">
-      <strong>The 2023 "disappearance" is not what it seems.</strong> It might look like they were active until the 2023 doxxing. However, the research shows they completely stopped all public activity back in <strong>2019</strong>. The doxxers simply found old, inactive accounts, and the 2023 doxxing only pushed the developers to erase those old traces.
-    </li>
-    <li style="margin-bottom: 15px;">
-      <strong>Kit9Studio is a two-person team.</strong> The research confirms the studio consists of Nemlei's husband (Avencherus), who handles all the programming, and Nemlei herself, who is responsible for the writing and art.
-    </li>
-    <li style="margin-bottom: 15px;">
-      <strong>The anti-corporate storyline comes from Avencherus.</strong> A psychological horror about siblings is a strange place for corporate satire. You might think it's Nemlei's writing, but she has zero interest in this topic. Her husband, however, has a long-standing interest in social critique and political philosophy, which is reflected in the game.
-    </li>
-    <li style="margin-bottom: 15px;">
-      <strong>Ashley could be based on Nemlei herself.</strong> This isn't just a fan guess. Ashley's traits echo Nemlei's archived teenage persona. We even found possible prototypes for Ashley and Andrew.
-    </li>
-    <li style="margin-bottom: 0;">
-      <strong>The game is not exclusively made by Finns.</strong> It's easy to assume it's a Finnish game because Nemlei is from Finland. But her husband (Avencherus) is American and lived in the US for a significant part of his life before moving to Finland. This explains the Americanization of the game's world.
-    </li>
+ ![6.png](5.png)
+
+ <div style="background-color: #2b2b2b; border: 1px solid #444; border-left: 5px solid #ff4d4d; border-radius: 8px; padding: 25px 30px; margin: 40px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+  <h3 style="margin-top: 0; color: #ffffff; font-size: 22px; border-bottom: 1px solid #444; padding-bottom: 10px;">TL;DR: Key Findings</h3>
+  <ol style="color: #ffffff; padding-left: 20px; line-height: 1.6; font-size: 16px; margin-bottom: 0;">
+    <li style="margin-bottom: 15px;"><strong>The 2023 "disappearance" is not what it seems.</strong> It might look like they were active until the 2023 doxxing. However, the research shows they completely stopped all public activity back in <strong>2019</strong>. The doxxers simply found old, inactive accounts, and the 2023 doxxing only pushed the developers to erase those old traces.</li>
+    <li style="margin-bottom: 15px;"><strong>Kit9Studio is a two-person team.</strong> The research confirms the studio consists of Nemlei's husband (Avencherus), who handles all the programming, and Nemlei herself, who is responsible for the writing and art.</li>
+    <li style="margin-bottom: 15px;"><strong>The anti-corporate storyline comes from Avencherus.</strong> A psychological horror about siblings is a strange place for corporate satire. You might think it's Nemlei's writing, but she has zero interest in this topic. Her husband, however, has a long-standing interest in social critique and political philosophy, which is reflected in the game.</li>
+    <li style="margin-bottom: 15px;"><strong>Ashley could be based on Nemlei herself.</strong> This isn't just a fan guess. Ashley's traits echo Nemlei's archived teenage persona. We even found possible prototypes for Ashley and Andrew.</li>
+    <li style="margin-bottom: 0;"><strong>The game is not exclusively made by Finns.</strong> It's easy to assume it's a Finnish game because Nemlei is from Finland. But her husband (Avencherus) is American and lived in the US for a significant part of his life before moving to Finland. This explains the Americanization of the game's world.</li>
   </ol>
 </div>
-
- ![6.png](5.png)
 
 ## Table of Contents
 
