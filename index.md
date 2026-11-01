@@ -146,6 +146,12 @@ Most likely, they made Gun-Toting Cats with this composition, probably the same 
 
 Thus, [kit9studio](https://web.archive.org/web/20181225154516/https://www.deviantart.com/users/outgoing?https://www.kit9studio.com/) was created back in 2018 for game development, so in that period the games Gun-Toting Cats and All I Wanted Was a Bouncy Ball were released, but with the release of the first visual novel, the name [kit9studio](https://web.archive.org/web/20181225154516/https://www.deviantart.com/users/outgoing?https://www.kit9studio.com/) disappears, and instead Kattiapina and Avencherus began to call themselves "Nemlei" in connection with the transition to developing visual novels, but after the release of TCOAAL on Steam and the subsequent scandal, Nemlei and Avencherus decided to revive the game studio, while framing this situation as the purchase of the game by a "studio" in order to separate their identities from the game, thus avoiding doxxing. So now we know that the husband, also known as Avencherus, is responsible for the entire technical part, as well as for how the games will ultimately look.
 
+<div style="text-align: right; margin-top: 30px; margin-bottom: 30px;">
+  <a href="#toc" style="display: inline-block; padding: 6px 12px; background-color: #363636; color: #7ab8ff; text-decoration: none; border-radius: 4px; font-size: 14px; border: 1px solid #555;">
+    ↑ Back to Top
+  </a>
+</div>
+
 <h3 id="gun-toting-cats" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Gun-Toting Cats<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff4d4d 10%, #ff4d4d 90%, transparent 100%);"></span></h3>
 
 ![Two fuckwits](изображение_2026-10-24_161323470.png)
