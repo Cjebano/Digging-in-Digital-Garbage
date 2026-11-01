@@ -250,37 +250,43 @@ As you might guess, it appeared mainly because of a scene in the second episode 
 
 However, it was not on the basis of this that this myth appeared. According to the most popular theory, suspicions of this fetish appeared because Nemlei either on Steam or somewhere else positively rated incestuous art with TCOAAL characters, and later, to substantiate it, the interview "[Were talking crash here](https://web.archive.org/web/20120305012228/http:/sharpteethterrors.deviantart.com/journal/Were-talking-crash-here-261016848)" was found on the [ruismandariini](https://web.archive.org/web/20120529110241/http:/ruismandariini.deviantart.com/) account, in which there was such a moment:
   
-<div class="chat-container" style="display: flex; flex-direction: column; margin: 30px 0; gap: 20px;">
+<div style="display: flex; flex-direction: column; margin: 30px 0; gap: 10px;">
 
-  <div class="chat-row" style="display: flex; justify-content: flex-end; align-items: center; gap: 15px;">
-    <div class="chat-text" style="color: #ffffff; line-height: 1.5; font-size: 16px; text-align: right; max-width: 600px;">
+  <div style="display: flex; justify-content: flex-end; align-items: center; position: relative; margin-bottom: 20px;">
+    <div style="color: #ffffff; line-height: 1.5; font-size: 16px; text-align: right; max-width: 600px; margin-right: 50px; z-index: 2;">
       "...Then I drew a lot of fan art of Crash Bandicoot! I paired Crash and Coco. I didn't realize they were brother and sister ;___; ..."
     </div>
-    <div class="chat-line-teal" style="width: 5px; height: 150px; background: linear-gradient(to bottom, transparent 0%, #1abc9c 15%, #1abc9c 85%, transparent 100%); transform: skewX(-25deg); flex-shrink: 0;"></div>
-    <div class="chat-avatar-box" style="display: flex; flex-direction: column; align-items: center; flex-shrink: 0; width: 90px;">
-      <img src="Art.1.png" class="chat-avatar" style="width: 80px; height: 80px; border-radius: 6px; object-fit: cover;">
+    
+    <div style="position: absolute; right: 85px; top: 50%; transform: translateY(-50%) skewX(-25deg); width: 5px; height: 140px; background: linear-gradient(to bottom, transparent 0%, #1abc9c 15%, #1abc9c 85%, transparent 100%); z-index: 1;"></div>
+    
+    <div style="display: flex; flex-direction: column; align-items: center; flex-shrink: 0; width: 80px; z-index: 2;">
+      <img src="Art.1.png" style="width: 70px; height: 70px; border-radius: 6px; object-fit: cover;">
       <span style="color: #ffffff; font-weight: bold; font-size: 15px; margin-top: 0; line-height: 1.2;">Nemlei:</span>
     </div>
   </div>
 
-  <div class="chat-row" style="display: flex; justify-content: flex-start; align-items: center; gap: 15px;">
-    <div class="chat-avatar-box" style="display: flex; flex-direction: column; align-items: center; flex-shrink: 0; width: 90px;">
-      <img src="изображение_2026-11-01_031155503.png" class="chat-avatar" style="width: 80px; height: 80px; border-radius: 6px; object-fit: cover;">
+  <div style="display: flex; justify-content: flex-start; align-items: center; position: relative; margin-bottom: 20px;">
+    <div style="display: flex; flex-direction: column; align-items: center; flex-shrink: 0; width: 80px; z-index: 2;">
+      <img src="изображение_2026-11-01_031155503.png" style="width: 70px; height: 70px; border-radius: 6px; object-fit: cover;">
       <span style="color: #ffffff; font-weight: bold; font-size: 15px; margin-top: 0; line-height: 1.2;">Interviewer:</span>
     </div>
-    <div class="chat-line-red" style="width: 5px; height: 150px; background: linear-gradient(to bottom, transparent 0%, #ff4d4d 15%, #ff4d4d 85%, transparent 100%); transform: skewX(25deg); flex-shrink: 0;"></div>
-    <div class="chat-text" style="color: #ffffff; line-height: 1.5; font-size: 16px; text-align: left; max-width: 600px;">
+    
+    <div style="position: absolute; left: 85px; top: 50%; transform: translateY(-50%) skewX(25deg); width: 5px; height: 140px; background: linear-gradient(to bottom, transparent 0%, #ff4d4d 15%, #ff4d4d 85%, transparent 100%); z-index: 1;"></div>
+    
+    <div style="color: #ffffff; line-height: 1.5; font-size: 16px; text-align: left; max-width: 600px; margin-left: 50px; z-index: 2;">
       "...And oh my god, I know. I always imagined them together as a couple too. They seem like the perfect couple. XD But no, they are brother and sister, and that's definitely incest ..."
     </div>
   </div>
 
-  <div class="chat-row" style="display: flex; justify-content: flex-end; align-items: center; gap: 15px;">
-    <div class="chat-text" style="color: #ffffff; line-height: 1.5; font-size: 16px; text-align: right; max-width: 600px;">
+  <div style="display: flex; justify-content: flex-end; align-items: center; position: relative;">
+    <div style="color: #ffffff; line-height: 1.5; font-size: 16px; text-align: right; max-width: 600px; margin-right: 50px; z-index: 2;">
       "=w= I know! But I secretly never stopped shipping them <_< Don't judge me."
     </div>
-    <div class="chat-line-teal" style="width: 5px; height: 150px; background: linear-gradient(to bottom, transparent 0%, #1abc9c 15%, #1abc9c 85%, transparent 100%); transform: skewX(-25deg); flex-shrink: 0;"></div>
-    <div class="chat-avatar-box" style="display: flex; flex-direction: column; align-items: center; flex-shrink: 0; width: 90px;">
-      <img src="Art.1.png" class="chat-avatar" style="width: 80px; height: 80px; border-radius: 6px; object-fit: cover;">
+    
+    <div style="position: absolute; right: 85px; top: 50%; transform: translateY(-50%) skewX(-25deg); width: 5px; height: 140px; background: linear-gradient(to bottom, transparent 0%, #1abc9c 15%, #1abc9c 85%, transparent 100%); z-index: 1;"></div>
+    
+    <div style="display: flex; flex-direction: column; align-items: center; flex-shrink: 0; width: 80px; z-index: 2;">
+      <img src="Art.1.png" style="width: 70px; height: 70px; border-radius: 6px; object-fit: cover;">
       <span style="color: #ffffff; font-weight: bold; font-size: 15px; margin-top: 0; line-height: 1.2;">Nemlei:</span>
     </div>
   </div>
