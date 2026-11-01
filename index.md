@@ -250,38 +250,38 @@ As you might guess, it appeared mainly because of a scene in the second episode 
 
 However, it was not on the basis of this that this myth appeared. According to the most popular theory, suspicions of this fetish appeared because Nemlei either on Steam or somewhere else positively rated incestuous art with TCOAAL characters, and later, to substantiate it, the interview "[Were talking crash here](https://web.archive.org/web/20120305012228/http:/sharpteethterrors.deviantart.com/journal/Were-talking-crash-here-261016848)" was found on the [ruismandariini](https://web.archive.org/web/20120529110241/http:/ruismandariini.deviantart.com/) account, in which there was such a moment:
   
-<div style="display: flex; flex-direction: column; gap: 40px; margin: 30px 0;">
+<div style="display: flex; flex-direction: column; margin: 30px 0;">
 
-  <div style="display: flex; justify-content: flex-end; align-items: center; gap: 20px;">
-    <div style="border: 2px dashed #888888; border-radius: 8px; padding: 15px; color: #ffffff; max-width: 70%;">
+  <div style="display: flex; justify-content: flex-end; align-items: center; margin-bottom: 30px;">
+    <div style="border: 2px dashed #888888; border-radius: 8px; padding: 15px 20px; color: #ffffff; width: 100%; max-width: 550px;">
       "...Then I drew a lot of fan art of Crash Bandicoot! I paired Crash and Coco. I didn't realize they were brother and sister ;___; ..."
     </div>
-    <div style="width: 4px; height: 80px; background: linear-gradient(to bottom, transparent 0%, #1abc9c 20%, #1abc9c 80%, transparent 100%); transform: skewX(-30deg); flex-shrink: 0;"></div>
-    <div style="display: flex; flex-direction: column; align-items: center; width: 70px; flex-shrink: 0;">
-      <img src="Art.1.png" style="width: 60px; height: 60px; border-radius: 4px; object-fit: cover;">
-      <span style="color: #ffffff; font-weight: bold; font-size: 14px; margin-top: 8px;">Nemlei:</span>
+    <div style="width: 4px; height: 90px; background: linear-gradient(to bottom, transparent 0%, #1abc9c 20%, #1abc9c 80%, transparent 100%); transform: skewX(-25deg); margin: 0 20px; flex-shrink: 0;"></div>
+    <div style="display: flex; flex-direction: column; align-items: center; flex-shrink: 0; width: 80px;">
+      <img src="Art.1.png" style="width: 70px; height: 70px; border-radius: 4px; object-fit: cover;">
+      <span style="color: #ffffff; font-weight: bold; font-size: 14px; margin-top: 6px;">Nemlei:</span>
     </div>
   </div>
 
-  <div style="display: flex; justify-content: flex-start; align-items: center; gap: 20px;">
-    <div style="display: flex; flex-direction: column; align-items: center; width: 70px; flex-shrink: 0;">
-      <img src="изображение_2026-11-01_031155503.png" style="width: 60px; height: 60px; border-radius: 4px; object-fit: cover;">
-      <span style="color: #ffffff; font-weight: bold; font-size: 14px; margin-top: 8px;">Interviewer:</span>
+  <div style="display: flex; justify-content: flex-start; align-items: center; margin-bottom: 30px;">
+    <div style="display: flex; flex-direction: column; align-items: center; flex-shrink: 0; width: 80px;">
+      <img src="изображение_2026-11-01_031155503.png" style="width: 70px; height: 70px; border-radius: 4px; object-fit: cover;">
+      <span style="color: #ffffff; font-weight: bold; font-size: 14px; margin-top: 6px;">Interviewer:</span>
     </div>
-    <div style="width: 4px; height: 80px; background: linear-gradient(to bottom, transparent 0%, #ff4d4d 20%, #ff4d4d 80%, transparent 100%); transform: skewX(30deg); flex-shrink: 0;"></div>
-    <div style="border: 2px dashed #888888; border-radius: 8px; padding: 15px; color: #ffffff; max-width: 70%;">
+    <div style="width: 4px; height: 90px; background: linear-gradient(to bottom, transparent 0%, #ff4d4d 20%, #ff4d4d 80%, transparent 100%); transform: skewX(25deg); margin: 0 20px; flex-shrink: 0;"></div>
+    <div style="border: 2px dashed #888888; border-radius: 8px; padding: 15px 20px; color: #ffffff; width: 100%; max-width: 550px;">
       "...And oh my god, I know. I always imagined them together as a couple too. They seem like the perfect couple. XD But no, they are brother and sister, and that's definitely incest ..."
     </div>
   </div>
 
-  <div style="display: flex; justify-content: flex-end; align-items: center; gap: 20px;">
-    <div style="border: 2px dashed #888888; border-radius: 8px; padding: 15px; color: #ffffff; max-width: 70%;">
+  <div style="display: flex; justify-content: flex-end; align-items: center;">
+    <div style="border: 2px dashed #888888; border-radius: 8px; padding: 15px 20px; color: #ffffff; width: 100%; max-width: 550px;">
       "=w= I know! But I secretly never stopped shipping them <_< Don't judge me."
     </div>
-    <div style="width: 4px; height: 80px; background: linear-gradient(to bottom, transparent 0%, #1abc9c 20%, #1abc9c 80%, transparent 100%); transform: skewX(-30deg); flex-shrink: 0;"></div>
-    <div style="display: flex; flex-direction: column; align-items: center; width: 70px; flex-shrink: 0;">
-      <img src="Art.1.png" style="width: 60px; height: 60px; border-radius: 4px; object-fit: cover;">
-      <span style="color: #ffffff; font-weight: bold; font-size: 14px; margin-top: 8px;">Nemlei:</span>
+    <div style="width: 4px; height: 90px; background: linear-gradient(to bottom, transparent 0%, #1abc9c 20%, #1abc9c 80%, transparent 100%); transform: skewX(-25deg); margin: 0 20px; flex-shrink: 0;"></div>
+    <div style="display: flex; flex-direction: column; align-items: center; flex-shrink: 0; width: 80px;">
+      <img src="Art.1.png" style="width: 70px; height: 70px; border-radius: 4px; object-fit: cover;">
+      <span style="color: #ffffff; font-weight: bold; font-size: 14px; margin-top: 6px;">Nemlei:</span>
     </div>
   </div>
 
