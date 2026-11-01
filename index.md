@@ -253,10 +253,10 @@ However, it was not on the basis of this that this myth appeared. According to t
 <div style="display: flex; flex-direction: column; margin: 20px 0;">
 
   <div style="display: flex; justify-content: flex-end; align-items: center; position: relative; padding: 10px 0;">
-    <div style="color: #ffffff; line-height: 1.5; font-size: 16px; text-align: right; max-width: 600px; margin-right: 50px; z-index: 2;">
+    <div style="color: #ffffff; line-height: 1.5; font-size: 16px; text-align: right; max-width: 600px; margin-right: 70px; z-index: 2;">
       "...Then I drew a lot of fan art of Crash Bandicoot! I paired Crash and Coco. I didn't realize they were brother and sister ;___; ..."
     </div>
-    <div style="position: absolute; right: 85px; top: 50%; transform: translateY(-50%) skewX(-25deg); width: 5px; height: 130px; background: linear-gradient(to bottom, transparent 0%, #1abc9c 15%, #1abc9c 85%, transparent 100%); z-index: 1;"></div>
+    <div style="position: absolute; right: 110px; top: 50%; transform: translateY(-50%) skewX(-25deg); width: 5px; height: 130px; background: linear-gradient(to bottom, transparent 0%, #1abc9c 15%, #1abc9c 85%, transparent 100%); z-index: 1;"></div>
     <div style="display: flex; flex-direction: column; align-items: center; flex-shrink: 0; width: 80px; z-index: 2;">
       <img src="Art.1.png" style="width: 70px; height: 70px; border-radius: 6px; object-fit: cover;">
       <span style="color: #ffffff; font-weight: bold; font-size: 15px; margin-top: 0; line-height: 1.2;">Nemlei:</span>
@@ -268,17 +268,17 @@ However, it was not on the basis of this that this myth appeared. According to t
       <img src="изображение_2026-11-01_031155503.png" style="width: 70px; height: 70px; border-radius: 6px; object-fit: cover;">
       <span style="color: #ffffff; font-weight: bold; font-size: 15px; margin-top: 0; line-height: 1.2;">Interviewer:</span>
     </div>
-    <div style="position: absolute; left: 85px; top: 50%; transform: translateY(-50%) skewX(25deg); width: 5px; height: 130px; background: linear-gradient(to bottom, transparent 0%, #ff4d4d 15%, #ff4d4d 85%, transparent 100%); z-index: 1;"></div>
-    <div style="color: #ffffff; line-height: 1.5; font-size: 16px; text-align: left; max-width: 600px; margin-left: 50px; z-index: 2;">
+    <div style="position: absolute; left: 110px; top: 50%; transform: translateY(-50%) skewX(25deg); width: 5px; height: 130px; background: linear-gradient(to bottom, transparent 0%, #ff4d4d 15%, #ff4d4d 85%, transparent 100%); z-index: 1;"></div>
+    <div style="color: #ffffff; line-height: 1.5; font-size: 16px; text-align: left; max-width: 600px; margin-left: 70px; z-index: 2;">
       "...And oh my god, I know. I always imagined them together as a couple too. They seem like the perfect couple. XD But no, they are brother and sister, and that's definitely incest ..."
     </div>
   </div>
 
   <div style="display: flex; justify-content: flex-end; align-items: center; position: relative; padding: 10px 0; margin-top: -15px;">
-    <div style="color: #ffffff; line-height: 1.5; font-size: 16px; text-align: right; max-width: 600px; margin-right: 50px; z-index: 2;">
+    <div style="color: #ffffff; line-height: 1.5; font-size: 16px; text-align: right; max-width: 600px; margin-right: 70px; z-index: 2;">
       "=w= I know! But I secretly never stopped shipping them <_< Don't judge me."
     </div>
-    <div style="position: absolute; right: 85px; top: 50%; transform: translateY(-50%) skewX(-25deg); width: 5px; height: 130px; background: linear-gradient(to bottom, transparent 0%, #1abc9c 15%, #1abc9c 85%, transparent 100%); z-index: 1;"></div>
+    <div style="position: absolute; right: 110px; top: 50%; transform: translateY(-50%) skewX(-25deg); width: 5px; height: 130px; background: linear-gradient(to bottom, transparent 0%, #1abc9c 15%, #1abc9c 85%, transparent 100%); z-index: 1;"></div>
     <div style="display: flex; flex-direction: column; align-items: center; flex-shrink: 0; width: 80px; z-index: 2;">
       <img src="Art.1.png" style="width: 70px; height: 70px; border-radius: 6px; object-fit: cover;">
       <span style="color: #ffffff; font-weight: bold; font-size: 15px; margin-top: 0; line-height: 1.2;">Nemlei:</span>
