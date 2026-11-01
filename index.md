@@ -258,7 +258,7 @@ However, it was not on the basis of this that this myth appeared. According to t
     </div>
     <div style="width: 3px; height: 70px; background-color: #1abc9c; transform: skewX(-20deg); flex-shrink: 0;"></div>
     <div style="display: flex; flex-direction: column; align-items: center; flex-shrink: 0;">
-      <img src="NEMLEI_AVATAR.png" style="width: 65px; height: 65px; border-radius: 4px; object-fit: cover; border: 1px solid #444;">
+      <img src="Art.1.png" style="width: 65px; height: 65px; border-radius: 4px; object-fit: cover; border: 1px solid #444;">
       <span style="color: #ffffff; font-weight: bold; font-size: 14px; margin-top: 8px;">Nemlei:</span>
     </div>
   </div>
@@ -280,7 +280,7 @@ However, it was not on the basis of this that this myth appeared. According to t
     </div>
     <div style="width: 3px; height: 70px; background-color: #1abc9c; transform: skewX(-20deg); flex-shrink: 0;"></div>
     <div style="display: flex; flex-direction: column; align-items: center; flex-shrink: 0;">
-      <img src="NEMLEI_AVATAR.png" style="width: 65px; height: 65px; border-radius: 4px; object-fit: cover; border: 1px solid #444;">
+      <img src="Art.1.png" style="width: 65px; height: 65px; border-radius: 4px; object-fit: cover; border: 1px solid #444;">
       <span style="color: #ffffff; font-weight: bold; font-size: 14px; margin-top: 8px;">Nemlei:</span>
     </div>
   </div>
