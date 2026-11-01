@@ -1,7 +1,7 @@
 # Digging-in-Digital-Garbage
 
 <div style="
-  background-image: url('Картон01.jpg'); 
+  background-image: url(Картон01..jpg); 
   background-size: 100% 100%; 
   background-repeat: no-repeat;
   background-color: #d4a373;
