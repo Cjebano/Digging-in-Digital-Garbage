@@ -250,43 +250,43 @@ As you might guess, it appeared mainly because of a scene in the second episode 
 
 However, it was not on the basis of this that this myth appeared. According to the most popular theory, suspicions of this fetish appeared because Nemlei either on Steam or somewhere else positively rated incestuous art with TCOAAL characters, and later, to substantiate it, the interview "[Were talking crash here](https://web.archive.org/web/20120305012228/http:/sharpteethterrors.deviantart.com/journal/Were-talking-crash-here-261016848)" was found on the [ruismandariini](https://web.archive.org/web/20120529110241/http:/ruismandariini.deviantart.com/) account, in which there was such a moment:
   
-<div style="display: flex; flex-direction: column; gap: 30px; margin: 30px 0;">
+<div style="display: flex; flex-direction: column; gap: 40px; margin: 30px 0;">
 
-  <div style="display: flex; justify-content: flex-end; align-items: stretch;">
-    <div style="border: 2px dashed #888888; border-radius: 8px; padding: 15px; color: #ffffff; flex: 1; margin-right: 12px; display: flex; align-items: center;">
+  <div style="display: flex; justify-content: flex-end; align-items: center; gap: 20px;">
+    <div style="border: 2px dashed #888888; border-radius: 8px; padding: 15px; color: #ffffff; max-width: 70%;">
       "...Then I drew a lot of fan art of Crash Bandicoot! I paired Crash and Coco. I didn't realize they were brother and sister ;___; ..."
     </div>
-    <div style="width: 4px; background-color: #1abc9c; transform: skewX(-40deg); margin: 0 12px; flex-shrink: 0;"></div>
-    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; flex-shrink: 0; width: 75px;">
-      <img src="Art.1.png" style="width: 65px; height: 65px; border-radius: 4px; object-fit: cover;">
+    <div style="width: 4px; height: 80px; background: linear-gradient(to bottom, transparent 0%, #1abc9c 20%, #1abc9c 80%, transparent 100%); transform: skewX(-30deg); flex-shrink: 0;"></div>
+    <div style="display: flex; flex-direction: column; align-items: center; width: 70px; flex-shrink: 0;">
+      <img src="Art.1.png" style="width: 60px; height: 60px; border-radius: 4px; object-fit: cover;">
       <span style="color: #ffffff; font-weight: bold; font-size: 14px; margin-top: 8px;">Nemlei:</span>
     </div>
   </div>
 
-  <div style="display: flex; justify-content: flex-start; align-items: stretch;">
-    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; flex-shrink: 0; width: 75px;">
-      <img src="изображение_2026-11-01_031155503.png" style="width: 65px; height: 65px; border-radius: 4px; object-fit: cover;">
+  <div style="display: flex; justify-content: flex-start; align-items: center; gap: 20px;">
+    <div style="display: flex; flex-direction: column; align-items: center; width: 70px; flex-shrink: 0;">
+      <img src="изображение_2026-11-01_031155503.png" style="width: 60px; height: 60px; border-radius: 4px; object-fit: cover;">
       <span style="color: #ffffff; font-weight: bold; font-size: 14px; margin-top: 8px;">Interviewer:</span>
     </div>
-    <div style="width: 4px; background-color: #ff4d4d; transform: skewX(40deg); margin: 0 12px; flex-shrink: 0;"></div>
-    <div style="border: 2px dashed #888888; border-radius: 8px; padding: 15px; color: #ffffff; flex: 1; margin-left: 12px; display: flex; align-items: center;">
+    <div style="width: 4px; height: 80px; background: linear-gradient(to bottom, transparent 0%, #ff4d4d 20%, #ff4d4d 80%, transparent 100%); transform: skewX(30deg); flex-shrink: 0;"></div>
+    <div style="border: 2px dashed #888888; border-radius: 8px; padding: 15px; color: #ffffff; max-width: 70%;">
       "...And oh my god, I know. I always imagined them together as a couple too. They seem like the perfect couple. XD But no, they are brother and sister, and that's definitely incest ..."
     </div>
   </div>
 
-  <div style="display: flex; justify-content: flex-end; align-items: stretch;">
-    <div style="border: 2px dashed #888888; border-radius: 8px; padding: 15px; color: #ffffff; flex: 1; margin-right: 12px; display: flex; align-items: center;">
+  <div style="display: flex; justify-content: flex-end; align-items: center; gap: 20px;">
+    <div style="border: 2px dashed #888888; border-radius: 8px; padding: 15px; color: #ffffff; max-width: 70%;">
       "=w= I know! But I secretly never stopped shipping them <_< Don't judge me."
     </div>
-    <div style="width: 4px; background-color: #1abc9c; transform: skewX(-40deg); margin: 0 12px; flex-shrink: 0;"></div>
-    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; flex-shrink: 0; width: 75px;">
-      <img src="Art.1.png" style="width: 65px; height: 65px; border-radius: 4px; object-fit: cover;">
+    <div style="width: 4px; height: 80px; background: linear-gradient(to bottom, transparent 0%, #1abc9c 20%, #1abc9c 80%, transparent 100%); transform: skewX(-30deg); flex-shrink: 0;"></div>
+    <div style="display: flex; flex-direction: column; align-items: center; width: 70px; flex-shrink: 0;">
+      <img src="Art.1.png" style="width: 60px; height: 60px; border-radius: 4px; object-fit: cover;">
       <span style="color: #ffffff; font-weight: bold; font-size: 14px; margin-top: 8px;">Nemlei:</span>
     </div>
   </div>
 
 </div>
- 
+
   It was this passage that became the main confirmation of the myth, although, in my opinion, the interviewer can be attributed this fetish more than Nemlei. However, let's take this myth on faith and try to refute it. I think it's worth starting with the fact that the game itself in episode 3 Decay, one of the endings, refutes this statement, but suddenly Nemlei over so many years lost interest in this fetish or she intentionally made the ending that way to whitewash herself. Therefore, we will rely in argumentation only on information from Nemlei's accounts. 
 
 So, on [ruismandariini](https://web.archive.org/web/20120529110241/http:/ruismandariini.deviantart.com/) in the journal section there is such an entry "[Fabulous fabs of deviantFAB](https://web.archive.org/web/20120306102054/http:/ruismandariini.deviantart.com/journal/Fabulous-fabs-of-deviantFAB-265883015)", in which Nemlei expresses her extreme displeasure at the dominance of pornography and expresses extreme displeasure regarding those who draw it. As for me, if she has such an aversion to pornography, then it is logical that she is unlikely to have any fetishes, and this is confirmed in practice: so, on not a single Nemlei account are there paintings depicting incest, also on not a single Nemlei account, despite the abundance of invented characters, there is not a single pair of brother and sister. 
