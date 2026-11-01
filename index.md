@@ -252,35 +252,35 @@ However, it was not on the basis of this that this myth appeared. According to t
   
 <div style="display: flex; flex-direction: column; gap: 30px; margin: 30px 0;">
 
-  <div style="display: flex; justify-content: flex-end; align-items: center; gap: 15px;">
-    <div style="border: 2px dashed #888888; border-radius: 8px; padding: 15px; color: #ffffff; max-width: 70%;">
+  <div style="display: flex; justify-content: flex-end; align-items: stretch;">
+    <div style="border: 2px dashed #888888; border-radius: 8px; padding: 15px; color: #ffffff; flex: 1; margin-right: 12px; display: flex; align-items: center;">
       "...Then I drew a lot of fan art of Crash Bandicoot! I paired Crash and Coco. I didn't realize they were brother and sister ;___; ..."
     </div>
-    <div style="width: 3px; height: 70px; background-color: #1abc9c; transform: skewX(-20deg); flex-shrink: 0;"></div>
-    <div style="display: flex; flex-direction: column; align-items: center; flex-shrink: 0;">
-      <img src="Art.1.png" style="width: 65px; height: 65px; border-radius: 4px; object-fit: cover; border: 1px solid #444;">
+    <div style="width: 4px; background-color: #1abc9c; transform: skewX(-40deg); margin: 0 12px; flex-shrink: 0;"></div>
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; flex-shrink: 0; width: 75px;">
+      <img src="Art.1.png" style="width: 65px; height: 65px; border-radius: 4px; object-fit: cover;">
       <span style="color: #ffffff; font-weight: bold; font-size: 14px; margin-top: 8px;">Nemlei:</span>
     </div>
   </div>
 
-  <div style="display: flex; justify-content: flex-start; align-items: center; gap: 15px;">
-    <div style="display: flex; flex-direction: column; align-items: center; flex-shrink: 0;">
-      <img src="изображение_2026-11-01_031155503.png" style="width: 65px; height: 65px; border-radius: 4px; object-fit: cover; border: 1px solid #444;">
+  <div style="display: flex; justify-content: flex-start; align-items: stretch;">
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; flex-shrink: 0; width: 75px;">
+      <img src="изображение_2026-11-01_031155503.png" style="width: 65px; height: 65px; border-radius: 4px; object-fit: cover;">
       <span style="color: #ffffff; font-weight: bold; font-size: 14px; margin-top: 8px;">Interviewer:</span>
     </div>
-    <div style="width: 3px; height: 70px; background-color: #ff4d4d; transform: skewX(20deg); flex-shrink: 0;"></div>
-    <div style="border: 2px dashed #888888; border-radius: 8px; padding: 15px; color: #ffffff; max-width: 70%;">
+    <div style="width: 4px; background-color: #ff4d4d; transform: skewX(40deg); margin: 0 12px; flex-shrink: 0;"></div>
+    <div style="border: 2px dashed #888888; border-radius: 8px; padding: 15px; color: #ffffff; flex: 1; margin-left: 12px; display: flex; align-items: center;">
       "...And oh my god, I know. I always imagined them together as a couple too. They seem like the perfect couple. XD But no, they are brother and sister, and that's definitely incest ..."
     </div>
   </div>
 
-  <div style="display: flex; justify-content: flex-end; align-items: center; gap: 15px;">
-    <div style="border: 2px dashed #888888; border-radius: 8px; padding: 15px; color: #ffffff; max-width: 70%;">
+  <div style="display: flex; justify-content: flex-end; align-items: stretch;">
+    <div style="border: 2px dashed #888888; border-radius: 8px; padding: 15px; color: #ffffff; flex: 1; margin-right: 12px; display: flex; align-items: center;">
       "=w= I know! But I secretly never stopped shipping them <_< Don't judge me."
     </div>
-    <div style="width: 3px; height: 70px; background-color: #1abc9c; transform: skewX(-20deg); flex-shrink: 0;"></div>
-    <div style="display: flex; flex-direction: column; align-items: center; flex-shrink: 0;">
-      <img src="Art.1.png" style="width: 65px; height: 65px; border-radius: 4px; object-fit: cover; border: 1px solid #444;">
+    <div style="width: 4px; background-color: #1abc9c; transform: skewX(-40deg); margin: 0 12px; flex-shrink: 0;"></div>
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; flex-shrink: 0; width: 75px;">
+      <img src="Art.1.png" style="width: 65px; height: 65px; border-radius: 4px; object-fit: cover;">
       <span style="color: #ffffff; font-weight: bold; font-size: 14px; margin-top: 8px;">Nemlei:</span>
     </div>
   </div>
