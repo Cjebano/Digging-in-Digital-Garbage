@@ -1,6 +1,5 @@
 # Digging-in-Digital-Garbage
 
- <a href="#toc" style="position: fixed; bottom: 30px; right: 30px; background-color: #363636; color: #7ab8ff; border: 2px solid #555; border-radius: 50%; width: 50px; height: 50px; display: flex; align-items: center; justify-content: center; font-size: 24px; text-decoration: none; z-index: 1000; box-shadow: 0 4px 10px rgba(0,0,0,0.5);" title="Go to Table of Contents">↑</a>
  
   ![6.png](5.png)
 
