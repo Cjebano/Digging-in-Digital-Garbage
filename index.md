@@ -1,17 +1,52 @@
 # Digging-in-Digital-Garbage
 
+<div style="
+  background-image: url('Картон01.jpg'); 
+  background-size: 100% 100%; 
+  background-repeat: no-repeat;
+  background-color: #d4a373;
+  padding: 7% 9%; 
+  margin: 40px 0; 
+  box-shadow: 8px 12px 25px rgba(0,0,0,0.6);
+">
+  <h3 style="
+    margin-top: 0; 
+    color: #1a1a1a; 
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: 24px; 
+    font-weight: 900; 
+    border-bottom: 3px dashed #1a1a1a; 
+    padding-bottom: 10px;
+  ">TL;DR: Key Findings</h3>
+  
+  <ol style="
+    color: #1a1a1a; 
+    padding-left: 20px; 
+    line-height: 1.6; 
+    font-size: 16px; 
+    margin-bottom: 0; 
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+  ">
+    <li style="margin-bottom: 15px;">
+      <strong>The 2023 "disappearance" is not what it seems.</strong> It might look like they were active until the 2023 doxxing. However, the research shows they completely stopped all public activity back in <strong>2019</strong>. The doxxers simply found old, inactive accounts, and the 2023 doxxing only pushed the developers to erase those old traces.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <strong>Kit9Studio is a two-person team.</strong> The research confirms the studio consists of Nemlei's husband (Avencherus), who handles all the programming, and Nemlei herself, who is responsible for the writing and art.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <strong>The anti-corporate storyline comes from Avencherus.</strong> A psychological horror about siblings is a strange place for corporate satire. You might think it's Nemlei's writing, but she has zero interest in this topic. Her husband, however, has a long-standing interest in social critique and political philosophy, which is reflected in the game.
+    </li>
+    <li style="margin-bottom: 15px;">
+      <strong>Ashley could be based on Nemlei herself.</strong> This isn't just a fan guess. Ashley's traits echo Nemlei's archived teenage persona. We even found possible prototypes for Ashley and Andrew.
+    </li>
+    <li style="margin-bottom: 0;">
+      <strong>The game is not exclusively made by Finns.</strong> It's easy to assume it's a Finnish game because Nemlei is from Finland. But her husband (Avencherus) is American and lived in the US for a significant part of his life before moving to Finland. This explains the Americanization of the game's world.
+    </li>
+  </ol>
+</div>
 
  ![6.png](5.png)
-## ATTENTION
-This post is very long. Since "Digging in Digital Garbage" is something like a study of very old developer accounts on DeviantArt. The links were initially discovered through footnotes on the wiki page dedicated to [Nemlei](https://coffin-of-andy-and-leyley.fandom.com/wiki/Nemlei). Initially I was driven by an attempt to learn at least something about the developers exclusively for myself. But, having followed these links on the page, I expected to see at best one or two preserved messages. However, having followed them, I discovered what seemed to me the informational equivalent of El Dorado.
-
-And then two questions arose before me. The first — "has anyone studied it?" — and the second — "how well-known is the information from them?". Having searched the internet, I was able to find answers to my questions. However, they did not satisfy me. Yes, they studied it, but superficially and biasedly. And after searching the internet and talking with fans of the game (not on Reddit, but in other places), I received confirmation. They confirmed that no one had done anything like this before me.
-
-Therefore I decided to write it. Its active writing period took about two months. I wrote it in my free time from work and studies. However, the work was rewritten, and blocks of information were regularly rewritten or deleted. Sometimes because I considered this information unnecessary or unrelated to Nemlei's formation. Sometimes because at one moment I found the second account of Nemlei's husband, and the information could not be ignored.
-
-Then, already at the final stage of writing the work, I began to think about where such material could be posted. In the end I came to the conclusion that Reddit is the most suitable platform for this kind of work.
-
-I will also separately clarify a couple of things. I know English at an insufficient level to write something like this in it. This text was translated into English by a neural network, but the text was checked for errors and inaccuracies by another person. (But still, if you find inaccuracies or strange turns of phrase, report it in the comments.)
 
 ## Table of Contents
 
