@@ -374,7 +374,7 @@ Hekka is a deceitful and manipulative character, judging by the messages under
    
   </div>
 
-  <div style="flex: 0 0 250px; max-width: 100%; display: flex; flex-direction: column; gap: 25px;">
+  <div style="flex: 0 0 150px; max-width: 100%; display: flex; flex-direction: column; gap: 25px;">
     <div style="text-align: center;">
       <img src="Art4.png" style="width: 100%; border-radius: 8px;" alt="Image 1">
       <div style="font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 8px;">Actually, this is the only image of Hecky on his own; yes, he does look like a woman, and yes, he does look like Julia.</div>
