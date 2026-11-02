@@ -355,7 +355,7 @@ Otherwise, Kattiapina's text and language are normal, although sometimes there a
 <div style="display: flex; flex-wrap: wrap; gap: 25px; align-items: flex-start; margin: 30px 0;">
   
   <div style="flex: 0 0 250px; max-width: 100%; text-align: center;">
-    <img src="ТВОЯ_КАРТИНКА.png" style="width: 100%; border-radius: 8px;" alt="Image">
+    <img src="Art4.png" style="width: 100%; border-radius: 8px;" alt="Image">
     <div style="font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 8px;">Actually, this is the only image of Hecky on his own; yes, he does look like a woman, and yes, he does look like Julia.</div>
   </div>
 
@@ -365,9 +365,7 @@ Otherwise, Kattiapina's text and language are normal, although sometimes there a
 
 </div>
 
-However, what still contributed to the fact that Ashley, even if you cross out all information about Ashley except episode 1, is head and shoulders above her counterparts? In my opinion, several aspects play a role here, one of them is that Ashley has a prototype or, if you like, a great-grandfather in the person of such a character as Hekka. This character is a record holder for survivability: so, the first art with him dates from September 6, 2011 "[re-crap](https://web.archive.org/web/20120407133240/http:/ruismandariini.deviantart.com/art/re-crap-257060228)", and the last --- June 23, 2015 "[god doesn't care](https://web.archive.org/web/20151023142026/http:/kattiapina.deviantart.com/art/god-doesn-t-care-548531416)" on the [kattiapina](https://web.archive.org/web/20151023031657/http:/kattiapina.deviantart.com/) (Yolala) account, by the way. 
-
-More art with him has come down to us than anything else, arranged in chronological order of appearance: "[re-crap](https://web.archive.org/web/20120407133240/http:/ruismandariini.deviantart.com/art/re-crap-257060228)", "[VICTORYYYY](https://web.archive.org/web/20120529110241mp_/http:/ruismandariini.deviantart.com/art/VICTORYYYY-282022414?q=gallery%3Aruismandariini%2F25034697&qo=4)", "[points of view](https://web.archive.org/web/20120327221038/http:/ruismandariini.deviantart.com/art/points-of-view-270982696)", "[hobbies](https://web.archive.org/web/20120529110241mp_/http:/ruismandariini.deviantart.com/art/hobbies-292444844?q=gallery%3Aruismandariini%2F25034697&qo=1)" and "[god doesn't care](https://web.archive.org/web/20151023142026/http:/kattiapina.deviantart.com/art/god-doesn-t-care-548531416)". 
+ More art with him has come down to us than anything else, arranged in chronological order of appearance: "[re-crap](https://web.archive.org/web/20120407133240/http:/ruismandariini.deviantart.com/art/re-crap-257060228)", "[VICTORYYYY](https://web.archive.org/web/20120529110241mp_/http:/ruismandariini.deviantart.com/art/VICTORYYYY-282022414?q=gallery%3Aruismandariini%2F25034697&qo=4)", "[points of view](https://web.archive.org/web/20120327221038/http:/ruismandariini.deviantart.com/art/points-of-view-270982696)", "[hobbies](https://web.archive.org/web/20120529110241mp_/http:/ruismandariini.deviantart.com/art/hobbies-292444844?q=gallery%3Aruismandariini%2F25034697&qo=1)" and "[god doesn't care](https://web.archive.org/web/20151023142026/http:/kattiapina.deviantart.com/art/god-doesn-t-care-548531416)". 
 
 <div style="display: flex; flex-wrap: wrap; gap: 25px; align-items: flex-start; margin: 30px 0;">
   
@@ -376,14 +374,12 @@ Hekka is a deceitful and manipulative character, judging by the messages under "
   </div>
 
   <div style="flex: 0 0 250px; max-width: 100%; text-align: center;">
-    <img src="ТВОЯ_КАРТИНКА.png" style="width: 100%; border-radius: 8px;" alt="Image">
+    <img src="Art5.png" style="width: 100%; border-radius: 8px;" alt="Image">
     <div style="font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 8px;">The best-preserved collaborative painting, by Heckel and Kirchner.</div>
   </div>
 
 </div>
 
-
-Hekka is a deceitful and manipulative character, judging by the messages under "[re-crap](https://web.archive.org/web/20120407133240/http:/ruismandariini.deviantart.com/art/re-crap-257060228)", where she writes that this character can pretend to be good in order to manipulate someone, also being in a codependent relationship with a certain Kani, about whom there is no information at all; such a conclusion can be made from the description of the painting "[points of view](https://web.archive.org/web/20120327221038/http:/ruismandariini.deviantart.com/art/points-of-view-270982696)". And his story ends, as Nemlei wrote under the post "[god doesn't care](https://web.archive.org/web/20151023142026/http:/kattiapina.deviantart.com/art/god-doesn-t-care-548531416)", with the creation of his own cult with himself at the head. 
 
 Therefore, I personally believe that Ashley, and maybe Andrew, has a background of another character, and therefore Ashley's image turned out so alive, however, this is far from the only reason.
 
