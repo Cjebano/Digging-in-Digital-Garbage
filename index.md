@@ -352,9 +352,36 @@ Otherwise, Kattiapina's text and language are normal, although sometimes there a
 
  "If I'm not entertained by at least some aspect of a character, I don't write them..."
 
+<div style="display: flex; flex-wrap: wrap; gap: 25px; align-items: flex-start; margin: 30px 0;">
+  
+  <div style="flex: 0 0 250px; max-width: 100%; text-align: center;">
+    <img src="ТВОЯ_КАРТИНКА.png" style="width: 100%; border-radius: 8px;" alt="Image">
+    <div style="font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 8px;">Actually, this is the only image of Hecky on his own; yes, he does look like a woman, and yes, he does look like Julia.</div>
+  </div>
+
+  <div style="flex: 1; min-width: 300px; color: #ffffff;">
+  However, what still contributed to the fact that Ashley, even if you cross out all information about Ashley except episode 1, is head and shoulders above her counterparts? In my opinion, several aspects play a role here, one of them is that Ashley has a prototype or, if you like, a great-grandfather in the person of such a character as Hekka. This character is a record holder for survivability: so, the first art with him dates from September 6, 2011 "[re-crap](https://web.archive.org/web/20120407133240/http:/ruismandariini.deviantart.com/art/re-crap-257060228)", and the last --- June 23, 2015 "[god doesn't care](https://web.archive.org/web/20151023142026/http:/kattiapina.deviantart.com/art/god-doesn-t-care-548531416)" on the [kattiapina](https://web.archive.org/web/20151023031657/http:/kattiapina.deviantart.com/) (Yolala) account, by the way
+  </div>
+
+</div>
+
 However, what still contributed to the fact that Ashley, even if you cross out all information about Ashley except episode 1, is head and shoulders above her counterparts? In my opinion, several aspects play a role here, one of them is that Ashley has a prototype or, if you like, a great-grandfather in the person of such a character as Hekka. This character is a record holder for survivability: so, the first art with him dates from September 6, 2011 "[re-crap](https://web.archive.org/web/20120407133240/http:/ruismandariini.deviantart.com/art/re-crap-257060228)", and the last --- June 23, 2015 "[god doesn't care](https://web.archive.org/web/20151023142026/http:/kattiapina.deviantart.com/art/god-doesn-t-care-548531416)" on the [kattiapina](https://web.archive.org/web/20151023031657/http:/kattiapina.deviantart.com/) (Yolala) account, by the way. 
 
 More art with him has come down to us than anything else, arranged in chronological order of appearance: "[re-crap](https://web.archive.org/web/20120407133240/http:/ruismandariini.deviantart.com/art/re-crap-257060228)", "[VICTORYYYY](https://web.archive.org/web/20120529110241mp_/http:/ruismandariini.deviantart.com/art/VICTORYYYY-282022414?q=gallery%3Aruismandariini%2F25034697&qo=4)", "[points of view](https://web.archive.org/web/20120327221038/http:/ruismandariini.deviantart.com/art/points-of-view-270982696)", "[hobbies](https://web.archive.org/web/20120529110241mp_/http:/ruismandariini.deviantart.com/art/hobbies-292444844?q=gallery%3Aruismandariini%2F25034697&qo=1)" and "[god doesn't care](https://web.archive.org/web/20151023142026/http:/kattiapina.deviantart.com/art/god-doesn-t-care-548531416)". 
+
+<div style="display: flex; flex-wrap: wrap; gap: 25px; align-items: flex-start; margin: 30px 0;">
+  
+  <div style="flex: 1; min-width: 300px; color: #ffffff;">
+Hekka is a deceitful and manipulative character, judging by the messages under "[re-crap](https://web.archive.org/web/20120407133240/http:/ruismandariini.deviantart.com/art/re-crap-257060228)", where she writes that this character can pretend to be good in order to manipulate someone, also being in a codependent relationship with a certain Kani, about whom there is no information at all; such a conclusion can be made from the description of the painting "[points of view](https://web.archive.org/web/20120327221038/http:/ruismandariini.deviantart.com/art/points-of-view-270982696)". And his story ends, as Nemlei wrote under the post "[god doesn't care](https://web.archive.org/web/20151023142026/http:/kattiapina.deviantart.com/art/god-doesn-t-care-548531416)", with the creation of his own cult with himself at the head. 
+  </div>
+
+  <div style="flex: 0 0 250px; max-width: 100%; text-align: center;">
+    <img src="ТВОЯ_КАРТИНКА.png" style="width: 100%; border-radius: 8px;" alt="Image">
+    <div style="font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 8px;">The best-preserved collaborative painting, by Heckel and Kirchner.</div>
+  </div>
+
+</div>
+
 
 Hekka is a deceitful and manipulative character, judging by the messages under "[re-crap](https://web.archive.org/web/20120407133240/http:/ruismandariini.deviantart.com/art/re-crap-257060228)", where she writes that this character can pretend to be good in order to manipulate someone, also being in a codependent relationship with a certain Kani, about whom there is no information at all; such a conclusion can be made from the description of the painting "[points of view](https://web.archive.org/web/20120327221038/http:/ruismandariini.deviantart.com/art/points-of-view-270982696)". And his story ends, as Nemlei wrote under the post "[god doesn't care](https://web.archive.org/web/20151023142026/http:/kattiapina.deviantart.com/art/god-doesn-t-care-548531416)", with the creation of his own cult with himself at the head. 
 
@@ -390,7 +417,7 @@ Also in the game there is one detail that is not spoken about at all, like the r
 
 <div style="float: right; width: 250px; margin-left: 25px; margin-bottom: 15px;">
 <img src="7.png" style="width: 100%; border-radius: 8px;" alt="Nemley and Ashley">
-<div style="text-align: center; font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 8px;">HOORAY</div>
+<div style="text-align: center; font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 8px;">Nemley and Ashley</div>
 </div>
 
 Agree, this description fits Ashley's image well, if not perfectly. In my opinion, these facts, if they do not say that Ashley is Nemlei's doppelganger, then at least confirm the opinion that Mandarin, when creating this character, was partly, and maybe primarily, inspired by herself in her teenage years. Second — why did the developers wind down their presence in 2019? Here it is worth stipulating: I am posing this question differently from how it is usually posed. This is not the question "why did they go into isolation" — there was no single such event. There were two different events: Isolation in 2019 and the erasure of traces in 2023. 
