@@ -128,7 +128,7 @@ Now a few words about why I consider these accounts to truly belong to the devel
 
 Problems with the sources. First of all, it is connected with the fact that the accounts were preserved in poor condition: for example, on the ruismandariini account, out of eight hundred comments, only about seventy can be viewed; a similar situation on the others. Also, a significant portion of them are simply thanks and wishes of all the best to users who rated their works well, and only a small portion of the remaining comments has practical use. Therefore, sometimes far-reaching conclusions can follow from one or two comments, but I will try to avoid this and provide in support of this or that hypothesis, looking at the games created by them, especially TCOAAL.
 
-<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" style="color: #7ab8ff; text-decoration: none; font-size: 20px;" title="Back to top">↑</a></div>
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
 
 <h2 id="chapter-3-kit9studio" style="position: relative; padding-bottom: 15px; margin-top: 40px;">Chapter 3. Kit9studio<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 4px; background: linear-gradient(to right, transparent 0%, #ff4d4d 10%, #ff4d4d 90%, transparent 100%);"></span></h2>
 
@@ -148,7 +148,7 @@ Most likely, they made Gun-Toting Cats with this composition, probably the same 
 
 Thus, [kit9studio](https://web.archive.org/web/20181225154516/https://www.deviantart.com/users/outgoing?https://www.kit9studio.com/) was created back in 2018 for game development, so in that period the games Gun-Toting Cats and All I Wanted Was a Bouncy Ball were released, but with the release of the first visual novel, the name [kit9studio](https://web.archive.org/web/20181225154516/https://www.deviantart.com/users/outgoing?https://www.kit9studio.com/) disappears, and instead Kattiapina and Avencherus began to call themselves "Nemlei" in connection with the transition to developing visual novels, but after the release of TCOAAL on Steam and the subsequent scandal, Nemlei and Avencherus decided to revive the game studio, while framing this situation as the purchase of the game by a "studio" in order to separate their identities from the game, thus avoiding doxxing. So now we know that the husband, also known as Avencherus, is responsible for the entire technical part, as well as for how the games will ultimately look.
 
-<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" style="color: #7ab8ff; text-decoration: none; font-size: 20px;" title="Back to top">↑</a></div>
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
 
 <h3 id="gun-toting-cats" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Gun-Toting Cats<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff4d4d 10%, #ff4d4d 90%, transparent 100%);"></span></h3>
 
@@ -162,6 +162,8 @@ On it for a long time. The plot of the game — two unnamed main character cats 
 ![Footage from their game](изображение_2026-10-25_003927764.png)
 Summing up, most likely, the game's development stopped due to lack of experience in game development, as well as the difficulty of simultaneously running social networks and working on such a large-scale project for beginners. And five full-fledged bosses, or even a second level, never appeared in the game. In principle, that's all that can be said about the game. For those interested, on the internet, thanks to unprecedented luck, there exists a whole one gameplay video, from which I took information for this section: [Gun-Toting Cats - Feline Force](https://www.youtube.com/watch?v=8gca-yU9vr4) (give the guy likes and comments, because he preserved history for us).
 
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
+
 <h3 id="all-i-wanted-was-a-bouncy-ball" style="position: relative; padding-bottom: 10px; margin-top: 30px;">All I Wanted Was a Bouncy Ball<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff4d4d 10%, #ff4d4d 90%, transparent 100%);"></span></h3>
 
 <div class="side-by-side"><div class="img-box"><img src="изображение_2026-10-25_005637848.png" alt="Image"><div class="img-caption">Horror by Nemley</div></div><div class="text-box">this was the first game made by the studio for the game jam "GitHub Game Off 2019" on the theme "Jumps and Boundaries". Also being an action platformer. The plot is quite simple: the main character, a cat scientist (not the one from Pushkin), wants to create a ball of ideal bounciness, but during another experiment, a failure occurs, and a giant fish skeleton with a purple aura appears and begins to chase us, that's it, the plot is over. </div></div>
@@ -172,7 +174,7 @@ But then the gameplay began — running from the monster through various levels 
 
 At Game Off 2019, the game did not take any nominations. Apparently, after this, the developers decided to finally move away from developing games with full-fledged gameplay and switch to creating games where the main emphasis was on plot and lore. The emphasis on this aspect of the game may have been caused by the fact that most of the winners were not only head and shoulders above in terms of gameplay, but also better in terms of plot. Here for comparison is the plot of the game that took first place — Sealed Bite. The main heroine Emilia's relatives begin to disappear one after another, and in desperate search for her loved ones, Emilia encounters an ancient wolf spirit. He offers her power in exchange for following his orders. From this moment, the heroine faces the question: does this power really belong to her, or is the spirit manipulating her, gradually subjugating her will. Agree, one setup sounds stronger than the entire plot of All I Wanted Was a Bouncy Ball.
 
-<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" style="color: #7ab8ff; text-decoration: none; font-size: 20px;" title="Back to top">↑</a></div>
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
 
 <h3 id="conclusion-ch3" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Conclusion<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff4d4d 10%, #ff4d4d 90%, transparent 100%);"></span></h3>
 
@@ -186,6 +188,8 @@ And that’s it, plus a link to an empty Twitter account. This is the first even
 
 Here, however, it is worth stipulating: the reason for this shift is not directly recorded in the surviving sources. The chronology points to 2019, but does not explain it. And here the question arises: what made these people change their strategy so radically? Did they realize that they could not simultaneously work on games and maintain an active online presence? Or were they harassed so much that they decided to break with everything?
 But then why does she write in the account description that she works alone? Maybe disagreements arose between them, as a result of which the company Kit9studio fell apart? One could speculate for a long time about what happened. But the conclusion from this demagogy can be only one — we need to dig further.
+
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
 
 <h2 id="chapter-4-nemlei" style="position: relative; padding-bottom: 15px; margin-top: 40px;">Chapter 4. Nemlei<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 4px; background: linear-gradient(to right, transparent 0%, #1abc9c 10%, #1abc9c 90%, transparent 100%);"></span></h2>
 
