@@ -367,15 +367,15 @@ Hekka is a deceitful and manipulative character, judging by the messages under
 "<a href="https://web.archive.org/web/20120327221038/http:/ruismandariini.deviantart.com/art/points-of-view-270982696">points of view</a>". And his story ends, as Nemlei wrote under the post 
 "<a href="https://web.archive.org/web/20151023142026/http:/kattiapina.deviantart.com/art/god-doesn-t-care-548531416">god doesn't care</a>", with the creation of his own cult with himself at the head.
        
-<div style="display: flex; justify-content: center; gap: 30px; margin: 30px 0; flex-wrap: wrap; align-items: flex-start;">
-  
-  <div style="flex: 0 1 280px; max-width: 100%; text-align: center;">
-    <img src="Art4.png" style="width: 100%; border-radius: 8px;" alt="Image 1">
+<div style="display: flex; justify-content: center; gap: 30px; margin: 30px 0; flex-wrap: wrap;">
+
+  <div style="width: 250px; text-align: center;">
+    <img src="Art4.png" style="width: 225px; height: 320px; object-fit: cover; border-radius: 8px; display: block;" alt="Image 1">
     <div style="font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 10px;">Actually, this is the only image of Hecky on his own; yes, he does look like a woman, and yes, he does look like Julia.</div>
   </div>
 
-  <div style="flex: 0 1 280px; max-width: 100%; text-align: center;">
-    <img src="Art5.png" style="width: 100%; border-radius: 8px;" alt="Image 2">
+  <div style="width: 250px; text-align: center;">
+    <img src="Art5.png" style="width: 250px; height: 320px; object-fit: cover; border-radius: 8px; display: block;" alt="Image 2">
     <div style="font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 10px;">The best-preserved collaborative painting, by Hekka and Kani</div>
   </div>
 
