@@ -197,6 +197,7 @@ But then why does she write in the account description that she works alone? May
 This chapter will focus on Nemlei herself and the facts that became known as a result of studying the DeviantArt accounts. I repeat, the developers themselves do not interest me per se, I am interested in their personalities strictly in the context of the game and nothing else. The narrative will be built on the principle of ascent from obvious facts to not so obvious ones, in other words, the narrative will be built on the principle of an iceberg, but in the chapter with Nemlei, that with the help of information from these accounts I will periodically dispel myths that Nemlei has become overgrown with over the years, at the end of each level I will summarize and based on the stated facts put forward my theories regarding the game and characters. Each developer account will not be analyzed separately; instead, information will be presented in a unified form in chapters dedicated to one of the two developers. Each fact will be supported by a corresponding link to a comment confirming this or that assumption, sometimes links to journal entries of Nemlei and Avencherus.
 Now that the necessary digression from the topic is over, we can proceed to what you opened and read all this for (or just skimmed through to these lines). If you really did that, I recommend stopping right now and at least briefly re-reading the previous chapters, because otherwise you might miss many important things. And did I bust my ass writing this for nothing?
 
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
 
 <h3 id="nemlei-and-society" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Nemlei and society<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #1abc9c 10%, #1abc9c 90%, transparent 100%);"></span></h3>
 
@@ -218,6 +219,8 @@ At the same time, in 2015 alone she posted 36 works (while on ruismandariini 56 
 
 On ruismandariini she communicated a lot and published relatively little. On kattiapina, the opposite: she publishes more and communicates several times less. That is, a clear dependence is visible. The more Nemlei communicates, the less she works, and vice versa. And most likely it was precisely because of her relatively low productivity that she, among other things, started a new account.
 I should note: the archives are preserved fragmentarily, and the comparison is not ideal — there could be fewer comments on the new account simply because there was a smaller audience. But the direction of change is visible even without precise numbers — from communication to production — and it begins several years before 2019. And at that time she had just started working on games, that is, working even more, and it was precisely then that she abandoned her social networks.
+
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
 
 <h3 id="nemleis-creativity" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Nemlei's creativity<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #1abc9c 10%, #1abc9c 90%, transparent 100%);"></span></h3>
 
@@ -247,11 +250,15 @@ With the transition to game development, Nemlei switched to a graphics tablet in
 *   The dark one, or as I call it, "Mandarin", where the color palette is limited to a dozen colors that go well with each other, and their small number is compensated by the use of all kinds of shades mixed with gray; usually such a style is used for games in a dark setting. The reference for this style is, of course, TCOAAL and Better Half; this style most likely evolved from Nemlei's early work, when it was provocative in nature.
 *   The second visual style can be called bright or "Kattiapina"; in it, on the contrary, a large number of colors are used, but special emphasis is placed on bright colors, a similar style is used by Nemlei for games in a fantasy setting, the reference points of this style are No good Noelle and Jack In A Castle. This style emerged later, but Kattiapina has much more experience with it, as she has been drawing games in this style since 2018.
 
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
+
 <h3 id="nemleis-marital-status" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Nemlei's marital status<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #1abc9c 10%, #1abc9c 90%, transparent 100%);"></span></h3>
 
 As is known, she is married, and her husband (whom we will talk about in the corresponding section) actively participates in development. But on the "[ruismandariini](https://web.archive.org/web/20120306102054/http:/ruismandariini.deviantart.com/)" account in the "journal" section, in the last entry she mentions an older sister and brother. What is more interesting, although one could have guessed about the existence of a brother in Nemlei (just by playing the game). However, there is no information about the brother, except that Yolala treats him well, as well as her sister, about whom there is already more information, but not by much :) 
 
 So, on the Yolala account there is a painting "[Potato cats](https://web.archive.org/web/20151209075708/http:/kattiapina.deviantart.com/art/Potato-cats-524737521)", and in the description Nemlei says that the cat and two kittens represent her sister and her children, from which one can conclude that the sister is much older than Nemlei, but this is not certain. There is no information about the parents.
+
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
 
 <h3 id="does-nemlei-have-an-incest-fetish" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Does Nemlei have an incest fetish?<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #1abc9c 10%, #1abc9c 90%, transparent 100%);"></span></h3>
 
@@ -304,11 +311,15 @@ So, on [ruismandariini](https://web.archive.org/web/20120529110241/http:/ruisman
 
 However, among her games there is Better Half, where there is a pair of brother and sister, and the sister is younger than the brother. Doesn't remind you of anything? However... in the game there is no love line between them in any form, not even one risque joke.
 
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
+
 <h3 id="how-old-is-nemlei" style="position: relative; padding-bottom: 10px; margin-top: 30px;">How old is Nemlei?<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #1abc9c 10%, #1abc9c 90%, transparent 100%);"></span></h3>
 
 The exact year of birth is not indicated. However, in the same section it is written that she is a student. The kattiapina account for 2015 also confirms that she was still studying.
 
 If one assumes that she entered immediately after school at 18--19 years old, then her year of birth is 1992--1994, and in 2026 she is approximately 32--34 years old. However, one can be a student at an older age as well --- with late enrollment, a change of specialty, or a second higher education. If one allows that at the time of her studies she was 20--21 years old, the upper bound shifts: the year of birth is 1991, that is, she may be 35 years old.
+
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
 
 <h3 id="nemleis-worldview" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Nemlei's worldview<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #1abc9c 10%, #1abc9c 90%, transparent 100%);"></span></h3>
 
@@ -316,6 +327,8 @@ If one assumes that she entered immediately after school at 18--19 years old, th
 This section will focus on the strangest, but all the more fascinating element that in a psychological horror about codependent relationships there is criticism of corporatism in the person of the company "Toxisoda", which the developers in episode 3 developed and added its connection with the main line through a demon, which suggests that it is important to the developers. And besides this, the presence in the game of a significant share of satire on modern society and the media, in particular. 
 
 Therefore, it is logical to assume that Nemlei as the main writer has some opinion on this matter, since she seeks to express it. However, as a result of studying [ruismandariini](https://web.archive.org/web/20120529110241/http:/ruismandariini.deviantart.com/) and [kattiapina](https://web.archive.org/web/20150907030134/http:/kattiapina.deviantart.com/), I did not find any information at least indirectly speaking about her anti-corporate position. Therefore, most likely Nemlei has no anti-corporate position, since in almost 7 years of being on the internet with her openness it is impossible not to express oneself at least somehow about the world around you, both in text and in the form of a painting, unless you are not interested in it, therefore the question arises: where did she get such a position?
+
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
 
 <h3 id="nemlei-and-writing" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Nemlei and writing<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #1abc9c 10%, #1abc9c 90%, transparent 100%);"></span></h3>
 
@@ -347,6 +360,8 @@ Hekka is a deceitful and manipulative character, judging by the messages under "
 
 Therefore, I personally believe that Ashley, and maybe Andrew, has a background of another character, and therefore Ashley's image turned out so alive, however, this is far from the only reason.
 
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
+
 <h3 id="nemleis-interests" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Nemlei's interests<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #1abc9c 10%, #1abc9c 90%, transparent 100%);"></span></h3>
 
 Before starting, it should be clarified that interests are things that can change over a long period of time, so what interested Yolala or Avencherus in 2015 could have lost meaning for them ten years later. On the [kattiapina](https://web.archive.org/web/20151023031657/http:/kattiapina.deviantart.com/) (Yolala) account in the "journal" section you can find out what music Nemlei listens to: mainly rock, including Finnish, but rock is not limited to that. 
@@ -354,6 +369,8 @@ Before starting, it should be clarified that interests are things that can chang
 In the description under the painting "[Knock Out Gimmi Gimmi](https://web.archive.org/web/20151203001456/http:/kattiapina.deviantart.com/art/Knock-Out-Gimmi-Gimmi-513665388)" there is a working link to one of Nemlei's favorite songs (at the time of 2015) --- honestly, I was disappointed, it's cheap pop. On the same account she also wrote about her passion for comics, although this could have been understood earlier: so, under the work "[points of view](https://web.archive.org/web/20120327221038/http:/ruismandariini.deviantart.com/art/points-of-view-270982696)" she wrote that it would be convenient for her to explain everything with a comic. 
 
 However, all this pales before her main passion, which, apparently, goes with her through life --- it's a mad love for cats. Probably this is the first thing you will notice if you go to any Nemlei account: on all accounts she has many paintings dedicated to cats. So, on [ruismandariini](https://web.archive.org/web/20100723043735/http:/ruismandariini.deviantart.com/) under the painting "[how is the view down there](https://web.archive.org/web/20120327202122/http:/ruismandariini.deviantart.com/art/how-is-the-view-down-there-266149608)" she writes that if there is something unclear in the image, then it is most likely a cat. On the [kattiapina](https://web.archive.org/web/20151023031657/http:/kattiapina.deviantart.com/) (Yolala) account more than half of the works are images of cats, even the avatar there is a cat. And the first game by Nemlei (which we will talk about in the block about Avencherus) was about cats.
+
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
 
 <h3 id="conclusion" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Conclusion<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #1abc9c 10%, #1abc9c 90%, transparent 100%);"></span></h3>
 
@@ -384,13 +401,21 @@ For 2019 there is not a single trace of harassment in the surviving sources. And
 
 And third — where did the coherent and well-thought-out storyline with "Toxisoda" and the criticism of modern media in TCOAAL come from, if, as this chapter has shown, Nemlei's interest in such things is not documented either in her creative work, or in her interests, or in her correspondence. This is all the more strange because this line is developed in the third episode and connected to the main storyline through a demon — that is, it is important to the developers. Both questions — both about 2019 and about "Toxisoda" — lead, as I will show in the next chapter, to the figure of the second developer. The first — because the version of a split between the spouses also does not work. The second — because Avencherus's interests coincide with what Nemlei lacks.
 
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
+
 <div style="clear: both;"></div>
 
 <h2 id="chapter-5-avencherus" style="position: relative; padding-bottom: 15px; margin-top: 40px;">Chapter 5. Avencherus<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 4px; background: linear-gradient(to right, transparent 0%, #ff8c00 10%, #ff8c00 90%, transparent 100%);"></span></h2>
 
+Chapter 4 demonstrates that Nemlei has no documented interest in politics or social criticism. This chapter explains how 'Toxisoda' ended up in TCOAAL, then.
+
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
+
 <h3 id="avencherus-and-openness" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Avencherus and openness<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff8c00 10%, #ff8c00 90%, transparent 100%);"></span></h3>
  
 Tumblr and Twitter are indicated, he also indicates in the account description his favorite artist --- Bob Ross. Also in the comments under his work "[The Kisuverse Begins](https://web.archive.org/web/20151031202819/http:/avencherus.deviantart.com/art/The-Kisuverse-Begins-559251536)" he openly speaks about his wife's nationality, he also ran his own group there. But on the first account [Shisho2k](https://web.archive.org/web/20110324184928/http:/shisho2k.deviantart.com/). He is much more frank: so, on this account there is a section "Devious Info", in which he reveals his favorite films, music, favorite writers and other things we will talk about later.
+
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
 
 <h3 id="shisho2k-and-avencherus-are-the-same-person" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Shisho2k and Avencherus are the same person<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff8c00 10%, #ff8c00 90%, transparent 100%);"></span></h3> 
 
@@ -401,6 +426,7 @@ However, if you look at the [Shisho2k](https://web.archive.org/web/2011032418492
 Also [Shisho2k](https://web.archive.org/web/20110324184928/http:/shisho2k.deviantart.com/) mentioned in the "Devious Info" section that he loves playing guitar: "Interests: Music (mainly guitar)", and on the [Avencherus](https://web.archive.org/web/20150905232045/http:/avencherus.deviantart.com/) account there is a post "[Tension](https://web.archive.org/web/20150920220348/http:/avencherus.deviantart.com/art/Tension-560659576)", in which the guitar is mentioned. And thus one can understand that this is the same person.
 ![Proof](изображение_2026-10-21_221756423.png)
 
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
 
 <h3 id="avencheruss-hobbies" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Avencherus's hobbies<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff8c00 10%, #ff8c00 90%, transparent 100%);"></span></h3>
  
@@ -409,6 +435,8 @@ As we already know, he is an American who moved to Finland sometime before 2014.
 Also Avencherus has the same love for cats as Nemlei: so, half of his photographs in the gallery depict cats, also on his account there is a separate collection "Spectacular Cat Gallery" which contains more than 200 images of cats. As on his avatar something cat-like is depicted, besides all joint works with Kattiapina were dedicated to cats, for example, "[Night of the Ghost Cats](https://web.archive.org/web/20151025200353/http:/avencherus.deviantart.com/art/Night-of-the-Ghost-Cats-552101294)", which is surprising, since on the [Shisho2k](https://web.archive.org/web/20110515040544/http:/shisho2k.deviantart.com/) account there are no hints at all of love for cats, so apparently he adopted it from Nemlei. 
 
 From what has been said, one can conclude that Avencherus, due to his profession, has a very indirect relation to art, which, however, does not prevent him from actively expressing himself either through drawing, or through photography, or even literature, for example, he has one story "[Afraid to Look Back](https://web.archive.org/web/20110515040544mp_/http:/shisho2k.deviantart.com/art/Afraid-to-Look-Back-206912871?q=gallery%3Ashisho2k&qo=2)", which speaks of Avencherus's active creative search in the period from 2010--2015, but their result, unfortunately, cannot be known, however, one can assume that he came to self-expression in the form of creating video games.
+
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
 
 <h3 id="why-avencherus-still-works-with-nemlei" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Why Avencherus still works with Nemlei<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff8c00 10%, #ff8c00 90%, transparent 100%);"></span></h3>
 
@@ -425,11 +453,15 @@ Therefore, I believe that a solo beginner cannot maintain such a brisk pace of r
 
 Thus, the theory I put forward about the divergence of these two people is refuted. The reason for the winding down of their presence in 2019: as I wrote, most likely the isolation in 2019 is connected with the incompatibility of full openness and the pace of development.
 
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
+
 <h3 id="avencherus-and-world-culture" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Avencherus and world culture<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff8c00 10%, #ff8c00 90%, transparent 100%);"></span></h3>
 
 <p>Based on the diary entry "Devious Info", his favorite films are "Fight Club", "Children of Men", "WALL-E", "The Thing", "Alien"; the first three especially interest me, since, despite the fact that at first glance there is no connection between them, however, in essence all these films are united by one theme --- criticism of consumer society. Thus, "Fight Club" criticizes consumerism as a false source of identity. "Children of Men" explores another problem of consumer society, namely the decline in birth rate, by bringing the problem to the point of absurdity: so, in the universe of this film, people have lost the ability to reproduce. And "WALL-E" criticizes excessive consumption, painting a joyless future for humanity, where it has polluted the earth to a state unfit for life and dumped its cleanup on robots, while it itself went off, flying into deep space, where it continued to lead such a hedonistic lifestyle. Thus, one can come to the conclusion that Avencherus is a person deeply interested in modern problems and the further future of humanity, which is also confirmed by his literary interests: these are Christopher Hitchens and Noam Chomsky, both writers in the media field occupied positions of critics of consumer society.</p>
 
 <p>Also interesting is the phrase he left in the description of his <a href="https://web.archive.org/web/20150912034936/http:/avencherus.deviantart.com/">Avencherus</a> profile "Realist in progress", in translation and context it most likely means "realist in progress". That is, a person in the process of forming his picture of the world, relying mainly on realism, including in art.</p>
+
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
 
 <h3 id="avencherus-prototype-of-andrew" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Avencherus --- prototype of Andrew?<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff8c00 10%, #ff8c00 90%, transparent 100%);"></span></h3>
 
@@ -455,6 +487,7 @@ Also in the entry "[Random Thoughts #3 - Democracy](https://web.archive.org/web/
 
 And such frequent mention of "confidence" may indicate that Avencherus may lack it, as well as the character Andrew, however, in the end, in my opinion, relying only on diary entries written more than 10 years ago, making such far-reaching conclusions is premature, however, I still believe that in any case I do not consider him the sole prototype of Andrew on the grounds that Nemlei, despite all the criticism expressed in her direction, in my opinion, really has too good an imagination to simply copy the characters of the heroes from her immediate environment with minimal changes. I am inclined to believe that the answer to this question is rather no than yes.
 
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
 
 <h3 id="avencherus-secret-writer-of-tcoaal" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Avencherus --- secret writer of TCOAAL!?<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff8c00 10%, #ff8c00 90%, transparent 100%);"></span></h3>
 
@@ -466,6 +499,8 @@ And such frequent mention of "confidence" may indicate that Avencherus may lack 
 As already mentioned earlier, his creative searches also included writing, although these searches include one story "[Afraid to Look Back](https://web.archive.org/web/20110515040544mp_/http://shisho2k.deviantart.com/art/Afraid-to-Look-Back-206912871?q=gallery%3Ashisho2k&qo=2)". However, this does not negate the fact that this person is inclined to write large essays-reflections, for example the diary entry on the account "Random Thoughts #1 - Infinity and the Universe", but especially how much more Avencherus writes can be understood by comparing entries with similar content on [Shisho2k](https://web.archive.org/web/20130330054358/http://shisho2k.deviantart.com/) from July 7, 2012 "[Get Featured](https://web.archive.org/web/20120707010956/http://shisho2k.deviantart.com/journal/Get-Featured-286732190)" and on the [ruismandariini](https://web.archive.org/web/20130215040637/http://ruismandariini.deviantart.com/) account from December 1, 2012 "[CONTEST WINNERS~](https://web.archive.org/web/20130215040637/http://ruismandariini.deviantart.com/journal/CONTEST-WINNERS-340672701)".
 
 Therefore, it is logical to assume that maybe the game's community was looking in the wrong place and all this time the author of the plot of all games was Avencherus, and Nemlei was just an artist? However, as I said, information from these sources should be perceived with the condition that it is very outdated, and over these 14 years, six of which Nemlei has been actively writing for 6 years, she could have simply learned, which she did. So already in Better Half there is much less "......" and "Anyway", what can we say about TCOAAL. Also, in general, the text itself with its speech patterns resembles Nemlei's speech rather than Avencherus's; in order not to stretch the chapter into a multi-page lecture on the peculiarities of language, I recommend, to check my words, to read this diary entry of Avencherus "Random Thoughts #1 - Infinity and the Universe", and then compare the manner of presentation of the text with the text, for example, of episode 1 of TCOAAL or in "No good Noelle", because it is short.
+
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
  
 <h3 id="conclusion-2" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Conclusion<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff8c00 10%, #ff8c00 90%, transparent 100%);"></span></h3>
 
@@ -498,6 +533,8 @@ Which is what we see in the news in the first episode, where in between endless 
 One could actually go on for a long time, so I will lead to the fact that in the first two episodes Chomsky's ideas are presented extremely straightforwardly and caricatured. The corporation "Toxisoda" is not subtle satire, but rather grotesque. This does not look like the style of a person who is really deeply immersed in political philosophy. Rather, it looks like the author himself is just getting acquainted with the idea and transfers it to the game in the most general form.
 
 This led me to think that the anti-corporate line was written by Nemlei, but not by herself --- but under the influence of Avencherus. He could have suggested the idea to her, given her Chomsky to read, discussed it with her. But the implementation is her work. In the third episode, this line becomes more complex and deeper, which may indicate that Nemlei either understood the topic better, or Avencherus began to participate more actively in writing. Either way, the political layer of TCOAAL is the result of their joint work, and not someone's sole contribution in my opinion.
+
+<div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
 
 <h2 id="summary" style="position: relative; padding-bottom: 15px; margin-top: 40px;">Summary<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 4px; background: linear-gradient(to right, transparent 0%, #ff4d4d 10%, #ff4d4d 90%, transparent 100%);"></span></h2>
 
