@@ -193,9 +193,18 @@ But then why does she write in the account description that she works alone? May
 
 <h2 id="chapter-4-nemlei" style="position: relative; padding-bottom: 15px; margin-top: 40px;">Chapter 4. Nemlei<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 4px; background: linear-gradient(to right, transparent 0%, #1abc9c 10%, #1abc9c 90%, transparent 100%);"></span></h2>
 
+<div style="float: left; width: 250px; margin-right: 25px; margin-bottom: 15px;">
+  <img src="VAH5.png" style="width: 100%; border-radius: 8px;" alt="Image">
+  <div style="text-align: center; font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 8px;">How Nemlei looked in 2015(self-portrait)</div>
+</div>
 
-This chapter will focus on Nemlei herself and the facts that became known as a result of studying the DeviantArt accounts. I repeat, the developers themselves do not interest me per se, I am interested in their personalities strictly in the context of the game and nothing else. The narrative will be built on the principle of ascent from obvious facts to not so obvious ones, in other words, the narrative will be built on the principle of an iceberg, but in the chapter with Nemlei, that with the help of information from these accounts I will periodically dispel myths that Nemlei has become overgrown with over the years, at the end of each level I will summarize and based on the stated facts put forward my theories regarding the game and characters. Each developer account will not be analyzed separately; instead, information will be presented in a unified form in chapters dedicated to one of the two developers. Each fact will be supported by a corresponding link to a comment confirming this or that assumption, sometimes links to journal entries of Nemlei and Avencherus.
-Now that the necessary digression from the topic is over, we can proceed to what you opened and read all this for (or just skimmed through to these lines). If you really did that, I recommend stopping right now and at least briefly re-reading the previous chapters, because otherwise you might miss many important things. And did I bust my ass writing this for nothing?
+This chapter will focus on Nemlei herself and the facts that became known as a result of studying the DeviantArt accounts. I repeat, the developers themselves do not interest me per se, I am interested in their personalities strictly in the context of the game and nothing else. The narrative will be built on the principle of ascent from obvious facts to not so obvious ones, in other words, the narrative will be built on the principle of an iceberg, but in the chapter with Nemlei, that with the help of information from these accounts I will periodically dispel myths that Nemlei has become overgrown with over the years, at the end of each level I will summarize and based on the stated facts put forward my theories regarding the game and characters. Each developer account will not be analyzed separately; instead, information will be presented in a unified form in chapters dedicated to one of the two developers. 
+
+Each fact will be supported by a corresponding link to a comment confirming this or that assumption, sometimes links to journal entries of Nemlei and Avencherus. Now that the necessary digression from the topic is over, we can proceed to what you opened and read all this for (or just skimmed through to these lines). If you really did that, I recommend stopping right now and at least briefly re-reading the previous chapters, because otherwise you might miss many important things. And did I bust my ass writing this for nothing?
+
+<div style="clear: both;"></div>
+
+
 
 <div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
 
