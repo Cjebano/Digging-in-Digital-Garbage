@@ -201,7 +201,7 @@ Now that the necessary digression from the topic is over, we can proceed to what
 
 <h3 id="nemlei-and-society" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Nemlei and society<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #1abc9c 10%, #1abc9c 90%, transparent 100%);"></span></h3>
 
-<div class="side-by-side"><div class="img-box"><img src="Заглушка 4..png" style="width: 100%; max-width: 250px; height: auto; border-radius: 8px;" alt="Social Media"><div class="img-caption">Internet (Our artist is highly motivated and professional)</div></div><div class="text-box"><p>If you go to the account and go to the comments on the main page or comments under the paintings, she replies to every comment everywhere, in general she often corresponds with someone <a href="https://web.archive.org/web/20120313023809/http://ruismandariini.deviantart.com/art/Looki-look-262710287">Looki look</a> and <a href="https://web.archive.org/web/20120327113200/http://ruismandariini.deviantart.com/art/I-ain-t-stuck-258507287">I ain't stuck</a>, and sometimes even very liberated, like here 
+<div class="side-by-side"><div class="img-box"><img src="1.png" style="width: 100%; max-width: 250px; height: auto; border-radius: 8px;" alt="Social Media"><div class="img-caption">Internet (Our artist is highly motivated and professional)</div></div><div class="text-box"><p>If you go to the account and go to the comments on the main page or comments under the paintings, she replies to every comment everywhere, in general she often corresponds with someone <a href="https://web.archive.org/web/20120313023809/http://ruismandariini.deviantart.com/art/Looki-look-262710287">Looki look</a> and <a href="https://web.archive.org/web/20120327113200/http://ruismandariini.deviantart.com/art/I-ain-t-stuck-258507287">I ain't stuck</a>, and sometimes even very liberated, like here 
 <a href="https://web.archive.org/web/20120411145024/http://ruismandariini.deviantart.com/art/re-crap-257060093">re-crap</a>, what can I say, they did a whole interview with her 
 "<a href="https://web.archive.org/web/20120305012228/http://sharpteethterrors.deviantart.com/journal/Were-talking-crash-here-261016848">Were talking crash here</a>". In addition, she had many social networks, for example on 
 <a href="https://web.archive.org/web/20120111015255/http://ruismandariini.deviantart.com/">ruismandariini</a> right in the page description both email and Skype are indicated, and on the account 
@@ -213,7 +213,7 @@ This is several times less than on the first account over three years, even thou
 At the same time, in 2015 alone she posted 36 works (while on ruismandariini 56 were posted over three years, 18–20 works per year) — that is, the publication rate did not fall but doubled. What does this mean? 
 
 <div style="float: right; width: 250px; margin-left: 20px; margin-bottom: 15px;">
-  <img src="изображение_2026-10-30_233754358.png" style="width: 100%; border-radius: 8px;" alt="Image">
+  <img src="2.png" style="width: 100%; border-radius: 8px;" alt="Image">
   <div style="text-align: center; font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 8px;">on the back burner</div>
 </div>
 
@@ -389,7 +389,7 @@ Also in the game there is one detail that is not spoken about at all, like the r
 
 
 <div style="float: right; width: 250px; margin-left: 25px; margin-bottom: 15px;">
-<img src="Заглушка 1.png" style="width: 100%; border-radius: 8px;" alt="Hooray">
+<img src="7.png" style="width: 100%; border-radius: 8px;" alt="Nemley and Ashley">
 <div style="text-align: center; font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 8px;">HOORAY</div>
 </div>
 
@@ -492,7 +492,7 @@ And such frequent mention of "confidence" may indicate that Avencherus may lack 
 <h3 id="avencherus-secret-writer-of-tcoaal" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Avencherus --- secret writer of TCOAAL!?<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff8c00 10%, #ff8c00 90%, transparent 100%);"></span></h3>
 
 <div style="float: left; width: 250px; margin-right: 25px; margin-bottom: 15px;">
-<img src="Заглушка 2.png" style="width: 100%; border-radius: 8px;" alt="Image">
+<img src="4.png" style="width: 100%; border-radius: 8px;" alt="Image">
 <div style="text-align: center; font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 8px;">Surprise</div>
 </div>
 
@@ -512,7 +512,7 @@ Even despite the fact that he has no direct relation to writing the text, this d
 
 However, the problems of modern society are very interesting to Avencherus, as we found out, moreover, if you open the works of one of Avencherus's favorite writers --- Noam Chomsky, and more specifically "Profit Over People" and "Manufacturing Consent". Don't grab your heads, I will not analyze them in detail in order not to lengthen the work even more and because I don't have that much time to delve into them in detail. 
 
-![Заглушка3.png](Заглушка3.png)
+![8.png](8.png)
 
 Therefore, I will go over the tops. So, in the annotation of the book "Profit Over People" it is written the following:
 
