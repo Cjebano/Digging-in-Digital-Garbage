@@ -367,7 +367,7 @@ Hekka is a deceitful and manipulative character, judging by the messages under
 "<a href="https://web.archive.org/web/20120327221038/http:/ruismandariini.deviantart.com/art/points-of-view-270982696">points of view</a>". And his story ends, as Nemlei wrote under the post 
 "<a href="https://web.archive.org/web/20151023142026/http:/kattiapina.deviantart.com/art/god-doesn-t-care-548531416">god doesn't care</a>", with the creation of his own cult with himself at the head.
        
-<div style="display: flex; justify-content: center; gap: 40px; margin: 30px 0; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 35px; margin: 25px 0; flex-wrap: wrap;">
   
   <div style="flex: 1; min-width: 200px; max-width: 45%; text-align: center;">
     <img src="Art4.png" style="width: 100%; border-radius: 8px;" alt="Image 1">
