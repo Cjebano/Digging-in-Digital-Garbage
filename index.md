@@ -1,4 +1,4 @@
-# Digging-in-Digital-Garbage
+<img width="984" height="516" alt="image" src="https://github.com/user-attachments/assets/5ef86b25-cb32-40e8-96b4-2043edda0de4" /># Digging-in-Digital-Garbage
 
  
   ![6.png](5.png)
@@ -352,9 +352,6 @@ Otherwise, Kattiapina's text and language are normal, although sometimes there a
 
  "If I'm not entertained by at least some aspect of a character, I don't write them..."
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start; margin: 30px 0;">
-
-  <div style="flex: 1; min-width: 300px; color: #ffffff;">
    However, what still contributed to the fact that Ashley, even if you cross out all information about Ashley except episode 1, is head and shoulders above her counterparts? In my opinion, several aspects play a role here, one of them is that Ashley has a prototype or, if you like, a great-grandfather in the person of such a character as Hekka. This character is a record holder for survivability: so, the first art with him dates from September 6, 2011 "<a href="https://web.archive.org/web/20120407133240/http:/ruismandariini.deviantart.com/art/re-crap-257060228">re-crap</a>", and the last --- June 23, 2015 "<a href="https://web.archive.org/web/20151023142026/http:/kattiapina.deviantart.com/art/god-doesn-t-care-548531416">god doesn't care</a>" on the 
    <a href="https://web.archive.org/web/20151023031657/http:/kattiapina.deviantart.com/">kattiapina</a> (Yolala) account, by the way.
   
@@ -369,23 +366,22 @@ Hekka is a deceitful and manipulative character, judging by the messages under
 "<a href="https://web.archive.org/web/20120407133240/http:/ruismandariini.deviantart.com/art/re-crap-257060228">re-crap</a>", where she writes that this character can pretend to be good in order to manipulate someone, also being in a codependent relationship with a certain Kani, about whom there is no information at all; such a conclusion can be made from the description of the painting 
 "<a href="https://web.archive.org/web/20120327221038/http:/ruismandariini.deviantart.com/art/points-of-view-270982696">points of view</a>". And his story ends, as Nemlei wrote under the post 
 "<a href="https://web.archive.org/web/20151023142026/http:/kattiapina.deviantart.com/art/god-doesn-t-care-548531416">god doesn't care</a>", with the creation of his own cult with himself at the head.
-     
-   Therefore, I personally believe that Ashley, and maybe Andrew, has a background of another character, and therefore Ashley's image turned out so alive, however, this is far from the only reason
-   
+       
+<div style="display: flex; justify-content: center; gap: 40px; margin: 30px 0; flex-wrap: wrap;">
+  
+  <div style="flex: 1; min-width: 250px; max-width: 45%; text-align: center;">
+    <img src="Art4.png" style="width: 100%; border-radius: 8px;" alt="Image 1">
+    <div style="font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 10px;">Actually, this is the only image of Hecky on his own; yes, he does look like a woman, and yes, he does look like Julia.</div>
   </div>
 
-  <div style="flex: 0 0 50px; max-width: 100%; display: flex; flex-direction: column; gap: 25px;">
-    <div style="text-align: center;">
-      <img src="Art4.png" style="width: 100%; border-radius: 8px;" alt="Image 1">
-      <div style="font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 8px;">Actually, this is the only image of Hecky on his own; yes, he does look like a woman, and yes, he does look like Julia.</div>
-    </div>
-    <div style="text-align: center;">
-      <img src="Art5.png" style="width: 100%; border-radius: 8px;" alt="Image 2">
-      <div style="font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 8px;">The best-preserved collaborative painting, by Hekka and Kani</div>
-    </div>
+  <div style="flex: 1; min-width: 250px; max-width: 45%; text-align: center;">
+    <img src="Art5.png" style="width: 100%; border-radius: 8px;" alt="Image 2">
+    <div style="font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 10px;">The best-preserved collaborative painting, by Hekka and Kani</div>
   </div>
 
 </div>
+
+ Therefore, I personally believe that Ashley, and maybe Andrew, has a background of another character, and therefore Ashley's image turned out so alive, however, this is far from the only reason
 
 <div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
 
