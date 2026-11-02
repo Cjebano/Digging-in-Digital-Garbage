@@ -369,12 +369,12 @@ Hekka is a deceitful and manipulative character, judging by the messages under
        
 <div style="display: flex; justify-content: center; gap: 35px; margin: 25px 0; flex-wrap: wrap;">
   
-  <div style="flex: 1; min-width: 200px; max-width: 45%; text-align: center;">
+  <div style="flex: 1; min-width: 150px; max-width: 45%; text-align: center;">
     <img src="Art4.png" style="width: 100%; border-radius: 8px;" alt="Image 1">
     <div style="font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 10px;">Actually, this is the only image of Hecky on his own; yes, he does look like a woman, and yes, he does look like Julia.</div>
   </div>
 
-  <div style="flex: 1; min-width: 200px; max-width: 45%; text-align: center;">
+  <div style="flex: 1; min-width: 150px; max-width: 45%; text-align: center;">
     <img src="Art5.png" style="width: 100%; border-radius: 8px;" alt="Image 2">
     <div style="font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 10px;">The best-preserved collaborative painting, by Hekka and Kani</div>
   </div>
