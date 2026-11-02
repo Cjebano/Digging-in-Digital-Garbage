@@ -1,4 +1,4 @@
-<img width="984" height="516" alt="image" src="https://github.com/user-attachments/assets/5ef86b25-cb32-40e8-96b4-2043edda0de4" /># Digging-in-Digital-Garbage
+# Digging-in-Digital-Garbage
 
  
   ![6.png](5.png)
