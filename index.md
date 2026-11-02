@@ -462,11 +462,18 @@ Also [Shisho2k](https://web.archive.org/web/20110324184928/http:/shisho2k.devian
 
 <h3 id="avencheruss-hobbies" style="position: relative; padding-bottom: 10px; margin-top: 30px;">Avencherus's hobbies<span style="display: block; position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: linear-gradient(to right, transparent 0%, #ff8c00 10%, #ff8c00 90%, transparent 100%);"></span></h3>
  
+<div style="float: left; width: 250px; margin-right: 25px; margin-bottom: 15px;">
+  <img src="VAH4.png" style="width: 100%; border-radius: 8px;" alt="Image">
+  <div style="text-align: center; font-size: 14px; color: #aaaaaa; font-style: italic; margin-top: 8px;">Avencherus in 2015.</div>
+</div>
+
 As we already know, he is an American who moved to Finland sometime before 2014. Judging by the [Shisho2k](https://web.archive.org/web/20110324184928/http:/shisho2k.deviantart.com/) account, at the beginning of his creative path he drew exclusively with graphite pencils, but this was not his main occupation, for example, in the ["About me"](https://web.archive.org/web/20110324184928/http:/shisho2k.deviantart.com/) section he openly writes that he is a software developer, which is confirmed by the diary entry from November 7, 2012 "[My Game Map](https://web.archive.org/web/20121107053523/http:/shisho2k.deviantart.com/)", in which he talks about a map he created for an online game, but already on the [Avencherus](https://web.archive.org/web/20150905232045/http:/avencherus.deviantart.com/) account he publishes only photographs taken with macro photography, for example, on his account you can find many paintings, for example "[Fading Blue Crystal](https://web.archive.org/web/20150912034936/http:/avencherus.deviantart.com/art/Fading-Blue-Crystal-558393332)", from the descriptions under his photographs one can understand that most of them are dedicated to nature. 
 
 Also Avencherus has the same love for cats as Nemlei: so, half of his photographs in the gallery depict cats, also on his account there is a separate collection "Spectacular Cat Gallery" which contains more than 200 images of cats. As on his avatar something cat-like is depicted, besides all joint works with Kattiapina were dedicated to cats, for example, "[Night of the Ghost Cats](https://web.archive.org/web/20151025200353/http:/avencherus.deviantart.com/art/Night-of-the-Ghost-Cats-552101294)", which is surprising, since on the [Shisho2k](https://web.archive.org/web/20110515040544/http:/shisho2k.deviantart.com/) account there are no hints at all of love for cats, so apparently he adopted it from Nemlei. 
 
 From what has been said, one can conclude that Avencherus, due to his profession, has a very indirect relation to art, which, however, does not prevent him from actively expressing himself either through drawing, or through photography, or even literature, for example, he has one story "[Afraid to Look Back](https://web.archive.org/web/20110515040544mp_/http:/shisho2k.deviantart.com/art/Afraid-to-Look-Back-206912871?q=gallery%3Ashisho2k&qo=2)", which speaks of Avencherus's active creative search in the period from 2010--2015, but their result, unfortunately, cannot be known, however, one can assume that he came to self-expression in the form of creating video games.
+
+<div style="clear: both;"></div>
 
 <div style="text-align: right; margin-top: 20px; margin-bottom: 10px;"><a href="#toc" class="back-to-top-small" title="Back to top">↑</a></div>
 
