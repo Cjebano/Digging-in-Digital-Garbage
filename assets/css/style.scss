@@ -180,3 +180,16 @@ img:not(.side-img) {
     margin: 0 auto 20px auto !important;
   }
 }
+.back-to-top-small {
+  display: inline-block !important;
+  color: #7ab8ff !important; 
+  text-decoration: none !important;
+  font-size: 22px !important;
+  font-weight: bold !important;
+  transition: transform 0.2s ease, color 0.2s ease !important;
+}
+
+.back-to-top-small:hover {
+  color: #ffffff !important; 
+  transform: translateY(-4px) !important; 
+}
